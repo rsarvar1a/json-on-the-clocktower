@@ -73,9 +73,6 @@ def combiner():
 
     # loop through all the roles in the main json
     for role in role_data.incoming_data:
-        role["firstNight"] = 0
-        role["otherNight"] = 0
-
         # get the role data from our RoleData object
         role_info = role_data.roles.get(role["id"], None)
 
@@ -84,13 +81,6 @@ def combiner():
             raise RoleIdNotFoundException(
                 f"Role with id '{role['id']}' not found in role data"
             )
-
-        # if we have role data, we'll use it to populate the night order data
-        if role_data:
-            role["firstNight"] = role_info.first_night_position
-            role["otherNight"] = role_info.other_night_position
-        else:
-            print(f"Warning: role with id '{role['id']}' not found in role data")
 
         # get the edition for this role
         edition = role_edition.get(role["id"], "Unknown Edition")
@@ -116,8 +106,17 @@ def combiner():
     team_data = {}
     # loop through the roles, sorted by id
     for role in sorted(role_data.incoming_data, key=lambda x: x["id"]):
+        # get the Role() object for this role
+        role_info = role_data.roles.get(role["id"], None)
+
+        # if it's None raise an exception
+        if not role_info:
+            raise RoleIdNotFoundException(
+                f"Role with id '{role['id']}' not found in role data"
+            )
+
         # - characters: a way to get character info by "slug" (usually just lowercase name)
-        character_data[role["id"]] = role
+        character_data[role["id"]] = role_info.as_json()
 
         # by edition: we don't need the full role data here, just the id and name
         # if it's None or empty, we'll add it to the "Unknown Edition" section

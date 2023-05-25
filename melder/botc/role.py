@@ -1,3 +1,6 @@
+from typing import Any, Optional
+
+
 class Role:
     """Access and manage BotC role data."""
 
@@ -16,10 +19,11 @@ class Role:
         self.other_night_reminder = role_data.get("otherNightReminder", "")
         self.reminders = role_data.get("reminders", [])
         self.setup = role_data.get("setup", False)
-        self.first_night_position: int = role_data.get("firstNight", 0)
-        self.other_night_position: int = role_data.get("otherNight", 0)
+        self.first_night_position: Optional[int] = role_data.get("firstNight", None)
+        self.other_night_position: Optional[int] = role_data.get("otherNight", None)
+        self.jinxes = role_data.get("jinxes", [])
 
-        # we need to knoiw if we're stylizing or not before we can store the
+        # we need to know if we're stylizing or not before we can store the
         # ability
         self.stylized = stylize
         # store the original ability, and stylize it if we're supposed to
@@ -31,12 +35,29 @@ class Role:
         # although we do expect to use our own data to fill any gaps
         self.edition = role_data.get("edition", None)
 
+    def as_json(self) -> dict[str, Any]:
+        """Return the role as a JSON object."""
+        return {
+            "id": self.id_slug,
+            "name": self.name,
+            "team": self.team,
+            "firstNightReminder": self.first_night_reminder,
+            "otherNightReminder": self.other_night_reminder,
+            "reminders": self.reminders,
+            "setup": self.setup,
+            "firstNight": self.first_night_position,
+            "otherNight": self.other_night_position,
+            "jinxes": self.jinxes,
+            "ability": self.original_ability,
+            "edition": self.edition,
+        }
+
     def __str__(self):
         # build up night order info, if we have it
         night_order = ""
-        if self.first_night_position > 0:
+        if self.first_night_position is not None and self.first_night_position > 0:
             night_order += f"first_night_position={self.first_night_position}"
-        if self.other_night_position > 0:
+        if self.other_night_position is not None and self.other_night_position > 0:
             # if we already have a first night position, we'll add a comma
             if night_order:
                 night_order += ", "
