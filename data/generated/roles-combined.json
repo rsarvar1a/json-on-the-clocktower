@@ -1,11 +1,11 @@
 {
     "character_by_id": {
-        "_dawn": {
+        "DAWN": {
             "ability": "",
-            "edition": "_meta",
+            "edition": "Unknown Edition",
             "firstNight": 0,
             "firstNightReminder": "Wait approximately 10 seconds. Call for eyes open, then immediately announce which players (if any) died.",
-            "id": "_dawn",
+            "id": "DAWN",
             "name": "Dawn",
             "otherNight": 0,
             "otherNightReminder": "Wait approximately 10 seconds. Call for eyes open, then immediately announce which players (if any) died.",
@@ -13,12 +13,12 @@
             "setup": false,
             "team": "_meta"
         },
-        "_demon": {
+        "DEMON": {
             "ability": "",
-            "edition": "_meta",
+            "edition": "Unknown Edition",
             "firstNight": 0,
             "firstNightReminder": "If 7 or more players: wake up the Demon. Show the 'These are your minions' card. Point to each Minion. Show the 'These characters are not in play' card. Show 3 character tokens of Good characters that are not in play",
-            "id": "_demon",
+            "id": "DEMON",
             "name": "Demon Night Info",
             "otherNight": 0,
             "otherNightReminder": "",
@@ -26,12 +26,12 @@
             "setup": false,
             "team": "_meta"
         },
-        "_dusk": {
+        "DUSK": {
             "ability": "",
-            "edition": "_meta",
+            "edition": "Unknown Edition",
             "firstNight": 0,
             "firstNightReminder": "",
-            "id": "_dusk",
+            "id": "DUSK",
             "name": "Dusk",
             "otherNight": 0,
             "otherNightReminder": "Check that all eyes are closed. Some travellers act.",
@@ -39,12 +39,12 @@
             "setup": false,
             "team": "_meta"
         },
-        "_minion": {
+        "MINION": {
             "ability": "",
-            "edition": "_meta",
+            "edition": "Unknown Edition",
             "firstNight": 0,
             "firstNightReminder": "If 7 or more players: wake up all of the Minions. They make eye contact with each other. Show the 'This is the Demon' card. Point to the Demon.",
-            "id": "_minion",
+            "id": "MINION",
             "name": "Minion Night Info",
             "otherNight": 0,
             "otherNightReminder": "",
@@ -2220,6 +2220,22 @@
     "editions": {
         "Unknown Edition": [
             {
+                "id": "DAWN",
+                "name": "Dawn"
+            },
+            {
+                "id": "DEMON",
+                "name": "Demon Night Info"
+            },
+            {
+                "id": "DUSK",
+                "name": "Dusk"
+            },
+            {
+                "id": "MINION",
+                "name": "Minion Night Info"
+            },
+            {
                 "id": "acrobat",
                 "name": "Acrobat"
             },
@@ -2330,24 +2346,6 @@
             {
                 "id": "widow",
                 "name": "Widow"
-            }
-        ],
-        "_meta": [
-            {
-                "id": "_dawn",
-                "name": "Dawn"
-            },
-            {
-                "id": "_demon",
-                "name": "Demon Night Info"
-            },
-            {
-                "id": "_dusk",
-                "name": "Dusk"
-            },
-            {
-                "id": "_minion",
-                "name": "Minion Night Info"
             }
         ],
         "bmr": [
@@ -5381,10 +5379,10 @@
         },
         {
             "ability": "",
-            "edition": "_meta",
+            "edition": "Unknown Edition",
             "firstNight": 0,
             "firstNightReminder": "If 7 or more players: wake up all of the Minions. They make eye contact with each other. Show the 'This is the Demon' card. Point to the Demon.",
-            "id": "_minion",
+            "id": "MINION",
             "name": "Minion Night Info",
             "otherNight": 0,
             "otherNightReminder": "",
@@ -5394,10 +5392,10 @@
         },
         {
             "ability": "",
-            "edition": "_meta",
+            "edition": "Unknown Edition",
             "firstNight": 0,
             "firstNightReminder": "If 7 or more players: wake up the Demon. Show the 'These are your minions' card. Point to each Minion. Show the 'These characters are not in play' card. Show 3 character tokens of Good characters that are not in play",
-            "id": "_demon",
+            "id": "DEMON",
             "name": "Demon Night Info",
             "otherNight": 0,
             "otherNightReminder": "",
@@ -5407,10 +5405,10 @@
         },
         {
             "ability": "",
-            "edition": "_meta",
+            "edition": "Unknown Edition",
             "firstNight": 0,
             "firstNightReminder": "",
-            "id": "_dusk",
+            "id": "DUSK",
             "name": "Dusk",
             "otherNight": 0,
             "otherNightReminder": "Check that all eyes are closed. Some travellers act.",
@@ -5420,10 +5418,10 @@
         },
         {
             "ability": "",
-            "edition": "_meta",
+            "edition": "Unknown Edition",
             "firstNight": 0,
             "firstNightReminder": "Wait approximately 10 seconds. Call for eyes open, then immediately announce which players (if any) died.",
-            "id": "_dawn",
+            "id": "DAWN",
             "name": "Dawn",
             "otherNight": 0,
             "otherNightReminder": "Wait approximately 10 seconds. Call for eyes open, then immediately announce which players (if any) died.",
@@ -5490,19 +5488,19 @@
     "teams": {
         "_meta": [
             {
-                "id": "_dawn",
+                "id": "DAWN",
                 "name": "Dawn"
             },
             {
-                "id": "_demon",
+                "id": "DEMON",
                 "name": "Demon Night Info"
             },
             {
-                "id": "_dusk",
+                "id": "DUSK",
                 "name": "Dusk"
             },
             {
-                "id": "_minion",
+                "id": "MINION",
                 "name": "Minion Night Info"
             }
         ],

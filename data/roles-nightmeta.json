@@ -1,6 +1,6 @@
 [
   {
-    "id": "_minion",
+    "id": "MINION",
     "name": "Minion Night Info",
     "edition": "_meta",
     "team": "_meta",
@@ -11,7 +11,7 @@
     "ability": ""
   },
   {
-    "id": "_demon",
+    "id": "DEMON",
     "name": "Demon Night Info",
     "edition": "_meta",
     "team": "_meta",
@@ -22,7 +22,7 @@
     "ability": ""
   },
   {
-    "id": "_dusk",
+    "id": "DUSK",
     "name": "Dusk",
     "edition": "_meta",
     "team": "_meta",
@@ -33,7 +33,7 @@
     "ability": ""
   },
   {
-    "id": "_dawn",
+    "id": "DAWN",
     "name": "Dawn",
     "edition": "_meta",
     "team": "_meta",
