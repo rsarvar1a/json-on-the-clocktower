@@ -1,8 +1,8 @@
 {
-  "_dawn": "_meta",
-  "_demon": "_meta",
-  "_dusk": "_meta",
-  "_minion": "_meta",
+  "DAWN": "_meta",
+  "DEMON": "_meta",
+  "DUSK": "_meta",
+  "MINION": "_meta",
   "acrobat": "",
   "alchemist": "ks",
   "alhadikhia": "ks",
