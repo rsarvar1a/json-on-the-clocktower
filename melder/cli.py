@@ -149,6 +149,8 @@ def combiner():
     os.makedirs("data/generated", exist_ok=True)
     with open("data/generated/roles-combined.json", "w", encoding="utf-8") as fhandle:
         json.dump(file_data, fhandle, indent=4, sort_keys=True)
+        # make sure we have a newline at the end of the file
+        fhandle.write("\n")
 
 
 if __name__ == "__main__":
