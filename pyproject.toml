@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "json-on-the-clocktower"
+version = "0.0.1"
+description = "Meld JSON resources into one processed file"
+authors = ["Chisel <chisel@malik-wright.uk>"]
+readme = "README.md"
+packages = [{include = "json_on_the_clocktower"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.3.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
