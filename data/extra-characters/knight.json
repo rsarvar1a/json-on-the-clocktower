@@ -1,0 +1,14 @@
+[
+  {
+    "id": "knight",
+    "image": "[Your direct URL here]",
+    "firstNight": 33,
+    "firstNightReminder": "Point to two players who are not the Demon.",
+    "otherNight": 0,
+    "reminders": ["Knows"],
+    "setup": false,
+    "name": "Knight",
+    "team": "townsfolk",
+    "ability": "You start knowing 2 players that are not the Demon."
+  }
+]

@@ -1,0 +1,49 @@
+---
+changesDir: .changes
+unreleasedDir: unreleased
+headerPath: header.tpl.md
+changelogPath: CHANGELOG.md
+versionExt: md
+versionFormat: '## {{.Version}} - {{.Time.Format "2006-01-02"}}'
+kindFormat: '### {{.Kind}}'
+kinds:
+  - label: Added
+    auto: minor
+  - label: Changed
+    auto: major
+  - label: Deprecated
+    auto: minor
+  - label: Removed
+    auto: major
+  - label: Fixed
+    auto: patch
+  - label: Security
+    auto: patch
+newlines:
+  afterChange: 0
+  afterChangelogHeader: 0
+  afterChangelogVersion: 0
+  afterKind: 1
+  afterVersion: 1
+  beforeChangelogVersion: 1
+  beforeFooterFile: 0
+  beforeKind: 0
+  endOfVersion: 0
+envPrefix: CHANGIE_
+
+replacements:
+  - path: README.md
+    find: version-v.*-blue
+    replace: version-v{{.Version}}-blue
+
+custom:
+  - key: GithubIssue
+    label: Github Issue (optional)
+    type: int
+    optional: true
+
+changeFormat: >-
+  * {{.Body}}
+  {{- if not (eq .Custom.GithubIssue "")}}
+  [#{{.Custom.GithubIssue}}]
+  {{- end}}

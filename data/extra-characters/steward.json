@@ -1,0 +1,14 @@
+[
+  {
+    "id": "steward",
+    "image": "[Your direct URL here]",
+    "firstNight": 33,
+    "firstNightReminder": "Point to a good player.",
+    "otherNight": 0,
+    "reminders": ["Knows"],
+    "setup": false,
+    "name": "Steward",
+    "team": "townsfolk",
+    "ability": "You start knowing 1 good player."
+  }
+]
