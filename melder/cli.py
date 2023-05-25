@@ -79,7 +79,7 @@ def combiner():
         # get the role data from our RoleData object
         role_info = role_data.roles.get(role["id"], None)
 
-        # frak out if we don't have role data; throw an exception
+        # freak out if we don't have role data; throw an exception
         if not role_info:
             raise RoleIdNotFoundException(
                 f"Role with id '{role['id']}' not found in role data"
@@ -103,6 +103,9 @@ def combiner():
                 )
         # add the edition to the role
         role["edition"] = edition
+
+        # get jinx information
+        jinx_info = load_data("data/external/script-jinx.json")
 
     # we write the data out to a file with a couple of sections for options on
     # finding roles/information
@@ -138,6 +141,7 @@ def combiner():
         "character_by_id": character_data,
         "editions": edition_data,
         "teams": team_data,
+        "jinxes": jinx_info,
     }
 
     print("Writing combined JSON data to roles-combined.json …")
