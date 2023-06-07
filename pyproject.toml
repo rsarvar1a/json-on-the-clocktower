@@ -4,7 +4,7 @@ version = "0.0.1"
 description = "Meld JSON resources into one processed file"
 authors = ["Chisel <chisel@malik-wright.uk>"]
 readme = "README.md"
-packages = [{include = "melder"}]
+packages = [{include = "morph"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
