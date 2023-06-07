@@ -29,3 +29,6 @@ meld: install-dev
 ifeq ($(shell uname),Darwin)
 	@open data/generated/roles-combined.json
 endif
+
+morph: install-dev
+	@$(POETRY) run python -m morph.cli
