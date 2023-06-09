@@ -27,6 +27,9 @@ class OneTrueJson:
         # add (raw) list of jinxes to data
         self.data["jinxes"] = self.incoming.get_jinx_info()
 
+        # add editions to data
+        self.data["editions"] = self.incoming.get_editions()
+
     def write(self, output_file: str) -> None:
         """Write the data to a JSON file"""
         print(f"Writing combined JSON data to '{output_file}' …")
