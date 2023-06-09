@@ -24,8 +24,8 @@ lint: install-dev
 test: install-dev
 	@$(POETRY) run python -m unittest $(PYSRC)
 
-meld: install-dev
-	@$(POETRY) run python -m melder.cli
+morph: install-dev
+	@$(POETRY) run python -m morph.cli
 ifeq ($(shell uname),Darwin)
 	@open data/generated/roles-combined.json
 endif
