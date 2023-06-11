@@ -4,7 +4,7 @@ all: fmt lint
 
 POETRY=poetry
 POETRY_OK:=$(shell command -v $(POETRY) 2> /dev/null)
-PYSRC=melder
+PYSRC=morph
 
 poetry:
 ifndef POETRY_OK
