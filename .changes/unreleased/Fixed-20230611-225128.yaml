@@ -1,5 +1,0 @@
-kind: Fixed
-body: use correct directory in pyling commit hook
-time: 2023-06-11T22:51:28.154307+01:00
-custom:
-  GithubIssue: ""

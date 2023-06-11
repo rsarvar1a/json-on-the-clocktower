@@ -1,5 +1,0 @@
-kind: Fixed
-body: ensure generated file has newline at EOF
-time: 2023-05-25T17:33:00.76926+01:00
-custom:
-  GithubIssue: ""
