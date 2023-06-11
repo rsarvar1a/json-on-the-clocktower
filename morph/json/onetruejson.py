@@ -107,9 +107,3 @@ class OneTrueJson:
     def __str__(self):
         """Return a string representation of the data"""
         return json.dumps(self.data, indent=4, sort_keys=True)
-
-
-class NoDataProvided(Exception):
-    """Exception for when no data is provided."""
-
-    pass
