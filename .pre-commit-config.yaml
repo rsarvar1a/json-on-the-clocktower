@@ -111,5 +111,5 @@ repos:
         name: pylint
         entry: poetry run pylint
         language: system
-        files: ^botcpdf/
+        files: ^morph/
         types: [python]
