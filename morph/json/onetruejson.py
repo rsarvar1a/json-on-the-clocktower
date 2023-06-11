@@ -30,6 +30,9 @@ class OneTrueJson:
         # add editions to data
         self.data["editions"] = self.incoming.get_editions()
 
+        # add the team data to the data
+        self.data["teams"] = self._prepare_team_data()
+
     def write(self, output_file: str) -> None:
         """Write the data to a JSON file"""
         print(f"Writing combined JSON data to '{output_file}' …")
@@ -44,6 +47,38 @@ class OneTrueJson:
             json.dump(self.data, fhandle, indent=4, sort_keys=True)
             # make sure we have a newline at the end of the file
             fhandle.write("\n")
+
+    def _prepare_team_data(self) -> dict[str, Any]:
+        team_data: dict[str, Any] = {}
+
+        # loop through the role_list
+        for role in self.data["role_list"]:
+            # if the role doesn't have a team, set it to _Unknown
+            if "team" not in role:
+                role["team"] = "_Unknown"
+
+            # we'll be storing a list of { id: ..., name: ... } objects in the
+            # team_data, so we need to make sure we have an id and a name
+            if "id" not in role or "name" not in role:
+                # this should never happen, throw an error
+                raise ValueError(
+                    f"role {role['id']} is missing an id or a name: {role}"
+                )
+
+            # if we don't have the role's team in the team_data, add it as an
+            # empty list
+            if role["team"] not in team_data:
+                team_data[role["team"]] = []
+
+            # add the id/name object to the team_data
+            team_data[role["team"]].append(
+                {
+                    "id": role["id"],
+                    "name": role["name"],
+                }
+            )
+
+        return team_data
 
     def _prepare_role_by_id(self) -> None:
         """Prepare the character_by_id data"""
