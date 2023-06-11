@@ -1,3 +1,4 @@
+""" Load data from multiple JSON sources (local and remote) and combine them """
 # a JsonIncoming class is used to load data from multiple JSON sources (local and remote)
 # and combine them into a single data structure for use by the rest of the program -
 # JsonOutgoing
@@ -122,10 +123,10 @@ class JsonIncoming:
     def _fetch_remote_data(self):
         """Fetch remote data and save in data/external/"""
         remote_data = {
-            "bra1n-roles": "https://raw.githubusercontent.com/bra1n/townsquare/develop/src/roles.json",
-            "bra1n-fabled": "https://raw.githubusercontent.com/bra1n/townsquare/develop/src/fabled.json",
-            "script-nightorder": "https://script.bloodontheclocktower.com/data/nightsheet.json",
-            "script-jinx": "https://script.bloodontheclocktower.com/data/jinx.json",
+            "bra1n-roles": "https://raw.githubusercontent.com/bra1n/townsquare/develop/src/roles.json",  # pylint: disable=line-too-long
+            "bra1n-fabled": "https://raw.githubusercontent.com/bra1n/townsquare/develop/src/fabled.json",  # pylint: disable=line-too-long
+            "script-nightorder": "https://script.bloodontheclocktower.com/data/nightsheet.json",  # pylint: disable=line-too-long
+            "script-jinx": "https://script.bloodontheclocktower.com/data/jinx.json",  # pylint: disable=line-too-long
         }
 
         for name, url in remote_data.items():
@@ -139,7 +140,8 @@ class JsonIncoming:
             # if we do, just say so
             if os.path.exists(local_path):
                 print(
-                    f"Skipping remote fetch for '{name}'; it already exists locally as '{local_path}'"
+                    f"Skipping remote fetch for '{name}';"
+                    f" it already exists locally as '{local_path}'"
                 )
             if not os.path.exists(local_path):
                 print(f"Fetching {name} from {url} …")
