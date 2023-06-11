@@ -2048,6 +2048,588 @@
             "team": "demon"
         }
     },
+    "editions": {
+        "": {
+            "acrobat": {
+                "id": "acrobat",
+                "name": "acrobat"
+            },
+            "balloonist": {
+                "id": "balloonist",
+                "name": "balloonist"
+            },
+            "bountyhunter": {
+                "id": "bountyhunter",
+                "name": "bountyhunter"
+            },
+            "cultleader": {
+                "id": "cultleader",
+                "name": "cultleader"
+            },
+            "fisherman": {
+                "id": "fisherman",
+                "name": "fisherman"
+            },
+            "goblin": {
+                "id": "goblin",
+                "name": "goblin"
+            },
+            "id": "",
+            "knight": {
+                "id": "knight",
+                "name": "knight"
+            },
+            "lilmonsta": {
+                "id": "lilmonsta",
+                "name": "lilmonsta"
+            },
+            "mephit": {
+                "id": "mephit",
+                "name": "mephit"
+            },
+            "name": "",
+            "nightwatchman": {
+                "id": "nightwatchman",
+                "name": "nightwatchman"
+            },
+            "organgrinder": {
+                "id": "organgrinder",
+                "name": "organgrinder"
+            },
+            "politician": {
+                "id": "politician",
+                "name": "politician"
+            },
+            "preacher": {
+                "id": "preacher",
+                "name": "preacher"
+            },
+            "steward": {
+                "id": "steward",
+                "name": "steward"
+            },
+            "vizier": {
+                "id": "vizier",
+                "name": "vizier"
+            },
+            "widow": {
+                "id": "widow",
+                "name": "widow"
+            }
+        },
+        "_meta": {
+            "DAWN": {
+                "id": "DAWN",
+                "name": "DAWN"
+            },
+            "DEMON": {
+                "id": "DEMON",
+                "name": "DEMON"
+            },
+            "DUSK": {
+                "id": "DUSK",
+                "name": "DUSK"
+            },
+            "MINION": {
+                "id": "MINION",
+                "name": "MINION"
+            },
+            "id": "_meta",
+            "name": "_meta"
+        },
+        "bmr": {
+            "apprentice": {
+                "id": "apprentice",
+                "name": "apprentice"
+            },
+            "assassin": {
+                "id": "assassin",
+                "name": "assassin"
+            },
+            "bishop": {
+                "id": "bishop",
+                "name": "bishop"
+            },
+            "chambermaid": {
+                "id": "chambermaid",
+                "name": "chambermaid"
+            },
+            "courtier": {
+                "id": "courtier",
+                "name": "courtier"
+            },
+            "devilsadvocate": {
+                "id": "devilsadvocate",
+                "name": "devilsadvocate"
+            },
+            "exorcist": {
+                "id": "exorcist",
+                "name": "exorcist"
+            },
+            "fool": {
+                "id": "fool",
+                "name": "fool"
+            },
+            "gambler": {
+                "id": "gambler",
+                "name": "gambler"
+            },
+            "godfather": {
+                "id": "godfather",
+                "name": "godfather"
+            },
+            "goon": {
+                "id": "goon",
+                "name": "goon"
+            },
+            "gossip": {
+                "id": "gossip",
+                "name": "gossip"
+            },
+            "grandmother": {
+                "id": "grandmother",
+                "name": "grandmother"
+            },
+            "id": "bmr",
+            "innkeeper": {
+                "id": "innkeeper",
+                "name": "innkeeper"
+            },
+            "judge": {
+                "id": "judge",
+                "name": "judge"
+            },
+            "lunatic": {
+                "id": "lunatic",
+                "name": "lunatic"
+            },
+            "mastermind": {
+                "id": "mastermind",
+                "name": "mastermind"
+            },
+            "matron": {
+                "id": "matron",
+                "name": "matron"
+            },
+            "minstrel": {
+                "id": "minstrel",
+                "name": "minstrel"
+            },
+            "moonchild": {
+                "id": "moonchild",
+                "name": "moonchild"
+            },
+            "name": "bmr",
+            "pacifist": {
+                "id": "pacifist",
+                "name": "pacifist"
+            },
+            "po": {
+                "id": "po",
+                "name": "po"
+            },
+            "professor": {
+                "id": "professor",
+                "name": "professor"
+            },
+            "pukka": {
+                "id": "pukka",
+                "name": "pukka"
+            },
+            "sailor": {
+                "id": "sailor",
+                "name": "sailor"
+            },
+            "shabaloth": {
+                "id": "shabaloth",
+                "name": "shabaloth"
+            },
+            "tealady": {
+                "id": "tealady",
+                "name": "tealady"
+            },
+            "tinker": {
+                "id": "tinker",
+                "name": "tinker"
+            },
+            "voudon": {
+                "id": "voudon",
+                "name": "voudon"
+            },
+            "zombuul": {
+                "id": "zombuul",
+                "name": "zombuul"
+            }
+        },
+        "ks": {
+            "alchemist": {
+                "id": "alchemist",
+                "name": "alchemist"
+            },
+            "alhadikhia": {
+                "id": "alhadikhia",
+                "name": "alhadikhia"
+            },
+            "amnesiac": {
+                "id": "amnesiac",
+                "name": "amnesiac"
+            },
+            "atheist": {
+                "id": "atheist",
+                "name": "atheist"
+            },
+            "boomdandy": {
+                "id": "boomdandy",
+                "name": "boomdandy"
+            },
+            "cannibal": {
+                "id": "cannibal",
+                "name": "cannibal"
+            },
+            "choirboy": {
+                "id": "choirboy",
+                "name": "choirboy"
+            },
+            "damsel": {
+                "id": "damsel",
+                "name": "damsel"
+            },
+            "engineer": {
+                "id": "engineer",
+                "name": "engineer"
+            },
+            "farmer": {
+                "id": "farmer",
+                "name": "farmer"
+            },
+            "fearmonger": {
+                "id": "fearmonger",
+                "name": "fearmonger"
+            },
+            "gangster": {
+                "id": "gangster",
+                "name": "gangster"
+            },
+            "general": {
+                "id": "general",
+                "name": "general"
+            },
+            "golem": {
+                "id": "golem",
+                "name": "golem"
+            },
+            "heretic": {
+                "id": "heretic",
+                "name": "heretic"
+            },
+            "huntsman": {
+                "id": "huntsman",
+                "name": "huntsman"
+            },
+            "id": "ks",
+            "king": {
+                "id": "king",
+                "name": "king"
+            },
+            "legion": {
+                "id": "legion",
+                "name": "legion"
+            },
+            "leviathan": {
+                "id": "leviathan",
+                "name": "leviathan"
+            },
+            "lleech": {
+                "id": "lleech",
+                "name": "lleech"
+            },
+            "lycanthrope": {
+                "id": "lycanthrope",
+                "name": "lycanthrope"
+            },
+            "magician": {
+                "id": "magician",
+                "name": "magician"
+            },
+            "marionette": {
+                "id": "marionette",
+                "name": "marionette"
+            },
+            "mezepheles": {
+                "id": "mezepheles",
+                "name": "mezepheles"
+            },
+            "name": "ks",
+            "noble": {
+                "id": "noble",
+                "name": "noble"
+            },
+            "pixie": {
+                "id": "pixie",
+                "name": "pixie"
+            },
+            "poppygrower": {
+                "id": "poppygrower",
+                "name": "poppygrower"
+            },
+            "psychopath": {
+                "id": "psychopath",
+                "name": "psychopath"
+            },
+            "puzzlemaster": {
+                "id": "puzzlemaster",
+                "name": "puzzlemaster"
+            },
+            "riot": {
+                "id": "riot",
+                "name": "riot"
+            },
+            "snitch": {
+                "id": "snitch",
+                "name": "snitch"
+            },
+            "stormcatcher": {
+                "id": "stormcatcher",
+                "name": "stormcatcher"
+            }
+        },
+        "snv": {
+            "artist": {
+                "id": "artist",
+                "name": "artist"
+            },
+            "barber": {
+                "id": "barber",
+                "name": "barber"
+            },
+            "barista": {
+                "id": "barista",
+                "name": "barista"
+            },
+            "bonecollector": {
+                "id": "bonecollector",
+                "name": "bonecollector"
+            },
+            "butcher": {
+                "id": "butcher",
+                "name": "butcher"
+            },
+            "cerenovus": {
+                "id": "cerenovus",
+                "name": "cerenovus"
+            },
+            "clockmaker": {
+                "id": "clockmaker",
+                "name": "clockmaker"
+            },
+            "deviant": {
+                "id": "deviant",
+                "name": "deviant"
+            },
+            "dreamer": {
+                "id": "dreamer",
+                "name": "dreamer"
+            },
+            "eviltwin": {
+                "id": "eviltwin",
+                "name": "eviltwin"
+            },
+            "fanggu": {
+                "id": "fanggu",
+                "name": "fanggu"
+            },
+            "flowergirl": {
+                "id": "flowergirl",
+                "name": "flowergirl"
+            },
+            "harlot": {
+                "id": "harlot",
+                "name": "harlot"
+            },
+            "id": "snv",
+            "juggler": {
+                "id": "juggler",
+                "name": "juggler"
+            },
+            "klutz": {
+                "id": "klutz",
+                "name": "klutz"
+            },
+            "mathematician": {
+                "id": "mathematician",
+                "name": "mathematician"
+            },
+            "mutant": {
+                "id": "mutant",
+                "name": "mutant"
+            },
+            "name": "snv",
+            "nodashii": {
+                "id": "nodashii",
+                "name": "nodashii"
+            },
+            "oracle": {
+                "id": "oracle",
+                "name": "oracle"
+            },
+            "philosopher": {
+                "id": "philosopher",
+                "name": "philosopher"
+            },
+            "pithag": {
+                "id": "pithag",
+                "name": "pithag"
+            },
+            "sage": {
+                "id": "sage",
+                "name": "sage"
+            },
+            "savant": {
+                "id": "savant",
+                "name": "savant"
+            },
+            "seamstress": {
+                "id": "seamstress",
+                "name": "seamstress"
+            },
+            "snakecharmer": {
+                "id": "snakecharmer",
+                "name": "snakecharmer"
+            },
+            "sweetheart": {
+                "id": "sweetheart",
+                "name": "sweetheart"
+            },
+            "towncrier": {
+                "id": "towncrier",
+                "name": "towncrier"
+            },
+            "vigormortis": {
+                "id": "vigormortis",
+                "name": "vigormortis"
+            },
+            "vortox": {
+                "id": "vortox",
+                "name": "vortox"
+            },
+            "witch": {
+                "id": "witch",
+                "name": "witch"
+            }
+        },
+        "tb": {
+            "baron": {
+                "id": "baron",
+                "name": "baron"
+            },
+            "beggar": {
+                "id": "beggar",
+                "name": "beggar"
+            },
+            "bureaucrat": {
+                "id": "bureaucrat",
+                "name": "bureaucrat"
+            },
+            "butler": {
+                "id": "butler",
+                "name": "butler"
+            },
+            "chef": {
+                "id": "chef",
+                "name": "chef"
+            },
+            "drunk": {
+                "id": "drunk",
+                "name": "drunk"
+            },
+            "empath": {
+                "id": "empath",
+                "name": "empath"
+            },
+            "fortuneteller": {
+                "id": "fortuneteller",
+                "name": "fortuneteller"
+            },
+            "gunslinger": {
+                "id": "gunslinger",
+                "name": "gunslinger"
+            },
+            "id": "tb",
+            "imp": {
+                "id": "imp",
+                "name": "imp"
+            },
+            "investigator": {
+                "id": "investigator",
+                "name": "investigator"
+            },
+            "librarian": {
+                "id": "librarian",
+                "name": "librarian"
+            },
+            "mayor": {
+                "id": "mayor",
+                "name": "mayor"
+            },
+            "monk": {
+                "id": "monk",
+                "name": "monk"
+            },
+            "name": "tb",
+            "poisoner": {
+                "id": "poisoner",
+                "name": "poisoner"
+            },
+            "ravenkeeper": {
+                "id": "ravenkeeper",
+                "name": "ravenkeeper"
+            },
+            "recluse": {
+                "id": "recluse",
+                "name": "recluse"
+            },
+            "saint": {
+                "id": "saint",
+                "name": "saint"
+            },
+            "scapegoat": {
+                "id": "scapegoat",
+                "name": "scapegoat"
+            },
+            "scarletwoman": {
+                "id": "scarletwoman",
+                "name": "scarletwoman"
+            },
+            "slayer": {
+                "id": "slayer",
+                "name": "slayer"
+            },
+            "soldier": {
+                "id": "soldier",
+                "name": "soldier"
+            },
+            "spy": {
+                "id": "spy",
+                "name": "spy"
+            },
+            "thief": {
+                "id": "thief",
+                "name": "thief"
+            },
+            "undertaker": {
+                "id": "undertaker",
+                "name": "undertaker"
+            },
+            "virgin": {
+                "id": "virgin",
+                "name": "virgin"
+            },
+            "washerwoman": {
+                "id": "washerwoman",
+                "name": "washerwoman"
+            }
+        }
+    },
     "jinxes": [
         {
             "id": "Chambermaid",

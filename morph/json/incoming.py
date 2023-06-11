@@ -62,6 +62,10 @@ class JsonIncoming:
         """Get the jinx info"""
         return self.data["external"]["script-jinx"]
 
+    def get_editions(self) -> list:
+        """Get the editions"""
+        return self.data["editions"]
+
     def _load(self) -> None:
         """Load data from multiple JSON sources (local and remote) and combine
         them into a single data structure for use by the rest of the program -
@@ -163,6 +167,23 @@ class JsonIncoming:
         print(f"Loading {filename} …")
         data = load_data(filename)
         self.data["edition-lookup"] = data
+
+        # loop through the data and add to self.data.editions
+        # where the key is the edition and the value is a dict of id and name
+        self.data["editions"] = {}
+        for role_id, edition in data.items():
+            # if the edition isn't in self.data.editions, add it
+            if edition not in self.data["editions"]:
+                self.data["editions"][edition] = {
+                    "id": edition,
+                    "name": edition,
+                }
+            # if the role_id isn't in self.data.editions[edition], add it
+            if role_id not in self.data["editions"][edition]:
+                self.data["editions"][edition][role_id] = {
+                    "id": role_id,
+                    "name": role_id,
+                }
 
     def _get_role_files(self) -> list[str]:
         """get a list of json files that contain role information"""
