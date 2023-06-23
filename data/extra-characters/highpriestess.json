@@ -1,0 +1,14 @@
+[
+  {
+    "id": "highpriestess",
+    "image": "your direct url here",
+    "firstNight": 50,
+    "firstNightReminder": "Point to a player.",
+    "otherNight": 69,
+    "otherNightReminder": "Point to a player.",
+    "setup": false,
+    "name": "High Priestess",
+    "team": "townsfolk",
+    "ability": "Each night, learn which player the Storyteller believes you should talk to most."
+  }
+]

@@ -71,11 +71,11 @@ class JsonIncoming:
         """Load data from multiple JSON sources (local and remote) and combine
         them into a single data structure for use by the rest of the program -
         JsonOutgoing"""
-        # load the local data
-        self._load_local_data()
-
         # fetch the remote data
         self._fetch_remote_data()
+
+        # load the local data
+        self._load_local_data()
 
     def _make_night_order_lookup(self) -> None:
         """We want a night order lookup (by name, not through choice)"""

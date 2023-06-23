@@ -24,7 +24,7 @@ lint: install-dev
 test: install-dev
 	@$(POETRY) run python -m unittest $(PYSRC)
 
-morph: install-dev
+morph: install-dev external-md5-check
 	@$(POETRY) run python -m morph.cli
 ifeq ($(shell uname),Darwin)
 	@open data/generated/roles-combined.json
@@ -45,3 +45,9 @@ changelog: next-version
 next-version:
 	@poetry version patch
 	@git commit --no-verify -m "bump pyproject version to $$(poetry version --short)" pyproject.toml
+
+external-md5:
+	@$(POETRY) run python -m morph.external_md5
+
+external-md5-check:
+	@cd data/external && md5sum -c md5sum

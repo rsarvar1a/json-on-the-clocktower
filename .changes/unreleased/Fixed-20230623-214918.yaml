@@ -1,0 +1,5 @@
+kind: Fixed
+body: 'fix: fetch remote data before loading local files'
+time: 2023-06-23T21:49:18.275154+01:00
+custom:
+  GithubIssue: ""

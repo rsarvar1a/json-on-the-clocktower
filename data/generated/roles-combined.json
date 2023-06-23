@@ -3,11 +3,11 @@
         "DAWN": {
             "ability": "",
             "edition": "_meta",
-            "firstNight": 54,
+            "firstNight": 55,
             "firstNightReminder": "Wait approximately 10 seconds. Call for eyes open, then immediately announce which players (if any) died.",
             "id": "DAWN",
             "name": "DAWN",
-            "otherNight": 72,
+            "otherNight": 73,
             "otherNightReminder": "Wait approximately 10 seconds. Call for eyes open, then immediately announce which players (if any) died.",
             "reminders": [],
             "setup": false,
@@ -389,11 +389,11 @@
         "chambermaid": {
             "ability": "Each night, choose 2 alive players (not yourself): you learn how many woke tonight due to their ability.",
             "edition": "bmr",
-            "firstNight": 52,
+            "firstNight": 53,
             "firstNightReminder": "The Chambermaid points to two players. Show the number signal (0, 1, 2, \u2026) for how many of those players wake tonight for their ability.",
             "id": "chambermaid",
             "name": "Chambermaid",
-            "otherNight": 70,
+            "otherNight": 71,
             "otherNightReminder": "The Chambermaid points to two players. Show the number signal (0, 1, 2, \u2026) for how many of those players wake tonight for their ability.",
             "reminders": [],
             "setup": false,
@@ -735,11 +735,11 @@
         "general": {
             "ability": "Each night, you learn which alignment the Storyteller believes is winning: good, evil, or neither.",
             "edition": "ks",
-            "firstNight": 51,
+            "firstNight": 52,
             "firstNightReminder": "Show the General thumbs up for good winning, thumbs down for evil winning or thumb to the side for neither.",
             "id": "general",
             "name": "General",
-            "otherNight": 69,
+            "otherNight": 70,
             "otherNightReminder": "Show the General thumbs up for good winning, thumbs down for evil winning or thumb to the side for neither.",
             "reminders": [],
             "setup": false,
@@ -876,6 +876,19 @@
             "reminders": [],
             "setup": false,
             "team": "outsider"
+        },
+        "highpriestess": {
+            "ability": "Each night, learn which player the Storyteller believes you should talk to most.",
+            "edition": "",
+            "firstNight": 51,
+            "firstNightReminder": "Point to a player.",
+            "id": "highpriestess",
+            "image": "your direct url here",
+            "name": "High Priestess",
+            "otherNight": 69,
+            "otherNightReminder": "Point to a player.",
+            "setup": false,
+            "team": "townsfolk"
         },
         "huntsman": {
             "ability": "Once per game, at night, choose a living player: the Damsel, if chosen, becomes a not-in-play Townsfolk. [+the Damsel]",
@@ -1030,11 +1043,11 @@
         "leviathan": {
             "ability": "If more than 1 good player is executed, you win. All players know you are in play. After day 5, evil wins.",
             "edition": "ks",
-            "firstNight": 55,
+            "firstNight": 56,
             "firstNightReminder": "Place the Leviathan 'Day 1' marker. Announce 'The Leviathan is in play; this is Day 1.'",
             "id": "leviathan",
             "name": "Leviathan",
-            "otherNight": 73,
+            "otherNight": 74,
             "otherNightReminder": "Change the Leviathan Day reminder for the next day.",
             "reminders": [
                 "Day 1",
@@ -1173,11 +1186,11 @@
         "mathematician": {
             "ability": "Each night, you learn how many players\u2019 abilities worked abnormally (since dawn) due to another character's ability.",
             "edition": "snv",
-            "firstNight": 53,
+            "firstNight": 54,
             "firstNightReminder": "Show the hand signal for the number (0, 1, 2, etc.) of players whose ability malfunctioned due to other abilities.",
             "id": "mathematician",
             "name": "Mathematician",
-            "otherNight": 71,
+            "otherNight": 72,
             "otherNightReminder": "Show the hand signal for the number (0, 1, 2, etc.) of players whose ability malfunctioned due to other abilities.",
             "reminders": [
                 "Abnormal"
@@ -1946,7 +1959,7 @@
         "vizier": {
             "ability": "All players know who you are. You can not die during the day. If good voted, you may choose to execute immediately.",
             "edition": "",
-            "firstNight": 56,
+            "firstNight": 57,
             "firstNightReminder": "Announce 'The Vizier is in play' and state which player they are.",
             "id": "vizier",
             "name": "Vizier",
@@ -2073,6 +2086,10 @@
             "goblin": {
                 "id": "goblin",
                 "name": "goblin"
+            },
+            "highpriestess": {
+                "id": "highpriestess",
+                "name": "highpriestess"
             },
             "id": "",
             "knight": {
@@ -3483,11 +3500,11 @@
         {
             "ability": "Each night, choose 2 alive players (not yourself): you learn how many woke tonight due to their ability.",
             "edition": "bmr",
-            "firstNight": 52,
+            "firstNight": 53,
             "firstNightReminder": "The Chambermaid points to two players. Show the number signal (0, 1, 2, \u2026) for how many of those players wake tonight for their ability.",
             "id": "chambermaid",
             "name": "Chambermaid",
-            "otherNight": 70,
+            "otherNight": 71,
             "otherNightReminder": "The Chambermaid points to two players. Show the number signal (0, 1, 2, \u2026) for how many of those players wake tonight for their ability.",
             "reminders": [],
             "setup": false,
@@ -3948,11 +3965,11 @@
         {
             "ability": "Each night, you learn how many players\u2019 abilities worked abnormally (since dawn) due to another character's ability.",
             "edition": "snv",
-            "firstNight": 53,
+            "firstNight": 54,
             "firstNightReminder": "Show the hand signal for the number (0, 1, 2, etc.) of players whose ability malfunctioned due to other abilities.",
             "id": "mathematician",
             "name": "Mathematician",
-            "otherNight": 71,
+            "otherNight": 72,
             "otherNightReminder": "Show the hand signal for the number (0, 1, 2, etc.) of players whose ability malfunctioned due to other abilities.",
             "reminders": [
                 "Abnormal"
@@ -4392,11 +4409,11 @@
         {
             "ability": "Each night, you learn which alignment the Storyteller believes is winning: good, evil, or neither.",
             "edition": "ks",
-            "firstNight": 51,
+            "firstNight": 52,
             "firstNightReminder": "Show the General thumbs up for good winning, thumbs down for evil winning or thumb to the side for neither.",
             "id": "general",
             "name": "General",
-            "otherNight": 69,
+            "otherNight": 70,
             "otherNightReminder": "Show the General thumbs up for good winning, thumbs down for evil winning or thumb to the side for neither.",
             "reminders": [],
             "setup": false,
@@ -4944,11 +4961,11 @@
         {
             "ability": "If more than 1 good player is executed, you win. All players know you are in play. After day 5, evil wins.",
             "edition": "ks",
-            "firstNight": 55,
+            "firstNight": 56,
             "firstNightReminder": "Place the Leviathan 'Day 1' marker. Announce 'The Leviathan is in play; this is Day 1.'",
             "id": "leviathan",
             "name": "Leviathan",
-            "otherNight": 73,
+            "otherNight": 74,
             "otherNightReminder": "Change the Leviathan Day reminder for the next day.",
             "reminders": [
                 "Day 1",
@@ -5183,11 +5200,11 @@
         {
             "ability": "",
             "edition": "_meta",
-            "firstNight": 54,
+            "firstNight": 55,
             "firstNightReminder": "Wait approximately 10 seconds. Call for eyes open, then immediately announce which players (if any) died.",
             "id": "DAWN",
             "name": "DAWN",
-            "otherNight": 72,
+            "otherNight": 73,
             "otherNightReminder": "Wait approximately 10 seconds. Call for eyes open, then immediately announce which players (if any) died.",
             "reminders": [],
             "setup": false,
@@ -5196,7 +5213,7 @@
         {
             "ability": "All players know who you are. You can not die during the day. If good voted, you may choose to execute immediately.",
             "edition": "",
-            "firstNight": 56,
+            "firstNight": 57,
             "firstNightReminder": "Announce 'The Vizier is in play' and state which player they are.",
             "id": "vizier",
             "name": "Vizier",
@@ -5218,6 +5235,19 @@
             ],
             "setup": false,
             "team": "minion"
+        },
+        {
+            "ability": "Each night, learn which player the Storyteller believes you should talk to most.",
+            "edition": "",
+            "firstNight": 51,
+            "firstNightReminder": "Point to a player.",
+            "id": "highpriestess",
+            "image": "your direct url here",
+            "name": "High Priestess",
+            "otherNight": 69,
+            "otherNightReminder": "Point to a player.",
+            "setup": false,
+            "team": "townsfolk"
         },
         {
             "ability": "You start knowing 2 players that are not the Demon.",
@@ -5795,6 +5825,10 @@
             {
                 "id": "cannibal",
                 "name": "Cannibal"
+            },
+            {
+                "id": "highpriestess",
+                "name": "High Priestess"
             },
             {
                 "id": "knight",
