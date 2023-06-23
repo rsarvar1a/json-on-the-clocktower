@@ -5220,6 +5220,18 @@
             "team": "minion"
         },
         {
+            "ability": "Each night, learn which player the Storyteller believes you should talk to most.",
+            "firstNight": null,
+            "firstNightReminder": "Point to a player.",
+            "id": "highpriestess",
+            "image": "your direct url here",
+            "name": "High Priestess",
+            "otherNight": null,
+            "otherNightReminder": "Point to a player.",
+            "setup": false,
+            "team": "townsfolk"
+        },
+        {
             "ability": "You start knowing 2 players that are not the Demon.",
             "edition": "",
             "firstNight": 44,
@@ -5795,6 +5807,10 @@
             {
                 "id": "cannibal",
                 "name": "Cannibal"
+            },
+            {
+                "id": "highpriestess",
+                "name": "High Priestess"
             },
             {
                 "id": "knight",
