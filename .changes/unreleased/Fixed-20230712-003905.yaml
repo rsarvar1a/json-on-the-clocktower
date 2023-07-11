@@ -1,5 +1,0 @@
-kind: Fixed
-body: fix get_edition_for_role() to use "experimental" instead of ""
-time: 2023-07-12T00:39:05.616196+01:00
-custom:
-  GithubIssue: ""
