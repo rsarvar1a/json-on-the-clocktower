@@ -57,7 +57,13 @@ class JsonIncoming:
         # if we don't have an edition for this role, return None
         if role_id not in self.data["edition-lookup"]:
             return None
-        return self.data["edition-lookup"][role_id]
+
+        edition = self.data["edition-lookup"][role_id]
+
+        if edition == "":
+            edition = "experimental"
+
+        return edition
 
     def get_jinx_info(self) -> list:
         """Get the jinx info"""
