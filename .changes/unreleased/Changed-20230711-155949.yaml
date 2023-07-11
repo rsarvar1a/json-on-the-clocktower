@@ -1,0 +1,5 @@
+kind: Changed
+body: fix edition metadata; add physicaltoken info
+time: 2023-07-11T15:59:49.005804+01:00
+custom:
+  GithubIssue: ""
