@@ -57,7 +57,13 @@ class JsonIncoming:
         # if we don't have an edition for this role, return None
         if role_id not in self.data["edition-lookup"]:
             return None
-        return self.data["edition-lookup"][role_id]
+
+        edition = self.data["edition-lookup"][role_id]
+
+        if edition == "":
+            edition = "experimental"
+
+        return edition
 
     def get_jinx_info(self) -> list:
         """Get the jinx info"""
@@ -167,24 +173,40 @@ class JsonIncoming:
         # and add it to self.data.edition
         filename = "data/role-edition.json"
         print(f"Loading {filename} …")
-        data = load_data(filename)
-        self.data["edition-lookup"] = data
+        data_roleedition = load_data(filename)
+        self.data["edition-lookup"] = data_roleedition
+
+        # load the edition meta data from data/edition-info.json
+        filename = "data/edition-info.json"
+        print(f"Loading {filename} …")
+        data_info = load_data(filename)
+        self.data["edition-info"] = data_info
+        # print a json dump of edition-info
+        print(json.dumps(data_info, indent=4, sort_keys=True))
 
         # loop through the data and add to self.data.editions
         # where the key is the edition and the value is a dict of id and name
         self.data["editions"] = {}
-        for role_id, edition in data.items():
+        for role_id, edition in data_roleedition.items():
+            if edition == "":
+                edition = "experimental"
             # if the edition isn't in self.data.editions, add it
             if edition not in self.data["editions"]:
-                self.data["editions"][edition] = {
-                    "id": edition,
-                    "name": edition,
-                }
+                print(f"Adding {edition} to self.data.editions …")
+                # we will have a meta block for the edition
+                self.data["editions"][edition] = {}
+                print(self.data["edition-info"][edition])
+                self.data["editions"][edition]["_meta"] = self.data["edition-info"][
+                    edition
+                ]
             # if the role_id isn't in self.data.editions[edition], add it
             if role_id not in self.data["editions"][edition]:
                 self.data["editions"][edition][role_id] = {
                     "id": role_id,
                     "name": role_id,
+                    "physicaltoken": self.data["edition-info"][edition][
+                        "physicaltokens"
+                    ],
                 }
 
     def _get_role_files(self) -> list[str]:

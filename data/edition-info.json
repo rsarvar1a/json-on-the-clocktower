@@ -1,0 +1,32 @@
+{
+  "experimental": {
+    "name": "Experimental",
+    "base3": false,
+    "physicaltokens": false
+  },
+  "tb": {
+    "name": "Trouble Brewing",
+    "base3": true,
+    "physicaltokens": true
+  },
+  "snv": {
+    "name": "Sects and Violets",
+    "base3": true,
+    "physicaltokens": true
+  },
+  "bmr": {
+    "name": "Bad Moon Rising",
+    "base3": true,
+    "physicaltokens": true
+  },
+  "ks": {
+    "name": "Kickstarter",
+    "base3": false,
+    "physicaltokens": true
+  },
+  "_meta": {
+    "name": "Metadata",
+    "base3": false,
+    "physicaltokens": false
+  }
+}
