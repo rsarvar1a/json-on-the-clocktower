@@ -6,7 +6,7 @@
 
 import json
 import os
-from typing import Optional
+from typing import Any, Optional
 
 from morph.util import fetch_remote_data, load_data
 
@@ -16,9 +16,10 @@ class JsonIncoming:
     into a single data structure for use by the rest of the program -
     JsonOutgoing"""
 
-    def __init__(self):
+    def __init__(self, force_fetch: bool = False):
         """A class to hold the data that we'll be writing to a JSON file."""
-        self.data = {}
+        self.data: dict[Any, Any] = {}
+        self.force_fetch = force_fetch
 
         # load the data
         self._load()
@@ -142,14 +143,15 @@ class JsonIncoming:
             # make sure the directory exists
             os.makedirs("data/external", exist_ok=True)
 
-            # if we don't have the file, fetch it
+            # if we're using force_fetch, or we don't have the file, fetch it
             # if we do, just say so
-            if os.path.exists(local_path):
+            if os.path.exists(local_path) and not self.force_fetch:
                 print(
                     f"Skipping remote fetch for '{name}';"
                     f" it already exists locally as '{local_path}'"
                 )
-            if not os.path.exists(local_path):
+
+            else:
                 print(f"Fetching {name} from {url} …")
                 data = fetch_remote_data(url)
                 # write the data to a file
