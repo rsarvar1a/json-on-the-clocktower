@@ -296,3 +296,6 @@ tags
 /data/external/
 __pycache__/
 data/imported/
+data/generated/roles-combined-v1.json
+data/generated/roles-combined-v2.json
+bloodq.sh
