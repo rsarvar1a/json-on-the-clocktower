@@ -31,6 +31,8 @@ ifeq ($(shell uname),Darwin)
 endif
 
 rebuild-data: install-dev morph external-md5 external-md5-check
+	@git add data/
+	@git commit --no-verify -m "rebuild data"
 
 
 
