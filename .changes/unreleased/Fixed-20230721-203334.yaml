@@ -1,0 +1,5 @@
+kind: Fixed
+body: actually use harpy data in harpy character file
+time: 2023-07-21T20:33:34.169999+01:00
+custom:
+  GithubIssue: ""
