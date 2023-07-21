@@ -24,11 +24,16 @@ lint: install-dev
 test: install-dev
 	@$(POETRY) run python -m unittest $(PYSRC)
 
-morph: install-dev external-md5-check
+morph: install-dev
 	@$(POETRY) run python -m morph.cli --force-fetch
 ifeq ($(shell uname),Darwin)
 	@open data/generated/roles-combined.json
 endif
+
+rebuild-data: install-dev morph external-md5 external-md5-check
+	@git add data/
+	@git commit --no-verify -m "rebuild data"
+
 
 
 release: fmt lint changelog
