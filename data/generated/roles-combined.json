@@ -5395,17 +5395,20 @@
             "team": "minion"
         },
         {
-            "ability": "Each night, learn which player the Storyteller believes you should talk to most.",
-            "edition": "experimental",
-            "firstNight": 52,
-            "firstNightReminder": "Point to a player.",
-            "id": "highpriestess",
+            "ability": "Each night, choose 2 players: tomorrow, the 1st player is mad that the 2nd is evil, or both might die.",
+            "firstNight": null,
+            "firstNightReminder": "Wake the Harpy; they point at one player, then another. Wake the 1st player the Harpy pointed to, show them the 'This character has selected you' card, show them the Harpy token, then point at the 2nd player the Harpy pointed to.",
+            "id": "harpy",
             "image": "your direct url here",
-            "name": "High Priestess",
-            "otherNight": 70,
-            "otherNightReminder": "Point to a player.",
+            "name": "Harpy",
+            "otherNight": null,
+            "otherNightReminder": "Wake the Harpy; they point at one player, then another. Wake the 1st player the Harpy pointed to, show them the 'This character has selected you' card, show them the Harpy token, then point at the 2nd player the Harpy pointed to.",
+            "reminders": [
+                "Mad",
+                "2nd"
+            ],
             "setup": false,
-            "team": "townsfolk"
+            "team": "minion"
         },
         {
             "ability": "Each night, learn which player the Storyteller believes you should talk to most.",
@@ -5676,6 +5679,10 @@
             {
                 "id": "organgrinder",
                 "name": "Organ Grinder"
+            },
+            {
+                "id": "harpy",
+                "name": "Harpy"
             }
         ],
         "outsider": [
@@ -5996,10 +6003,6 @@
             {
                 "id": "cannibal",
                 "name": "Cannibal"
-            },
-            {
-                "id": "highpriestess",
-                "name": "High Priestess"
             },
             {
                 "id": "highpriestess",
