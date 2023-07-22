@@ -24,6 +24,11 @@
     "base3": false,
     "physicaltokens": true
   },
+  "base3": {
+    "name": "Base 3",
+    "base3": true,
+    "physicaltokens": true
+  },
   "_meta": {
     "name": "Metadata",
     "base3": false,
