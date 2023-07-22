@@ -22,7 +22,7 @@ lint: install-dev
 	@$(POETRY) run pylint $(PYSRC)
 
 test: install-dev
-	@$(POETRY) run python -m unittest $(PYSRC)
+	@$(POETRY) run poetry run pytest -v --junit-xml=test-results.xml $(PYSRC)/tests
 
 morph: install-dev
 	@$(POETRY) run python -m morph.cli --force-fetch
