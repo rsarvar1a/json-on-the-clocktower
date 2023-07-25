@@ -1,17 +1,33 @@
 # json-on-the-clocktower
 
+## 0.0.10
+
+### Patch Changes
+
+- fix repo check in workflow ([#19](https://github.com/chizmw/json-on-the-clocktower/pull/19))
+
+- fix yarn package version ([#21](https://github.com/chizmw/json-on-the-clocktower/pull/21))
+
+- add missing pytest dependency ([#14](https://github.com/chizmw/json-on-the-clocktower/pull/14))
+
+- add workflow to update version refs in docs ([#21](https://github.com/chizmw/json-on-the-clocktower/pull/21))
+
+- migrate to changesets (from changie) ([#14](https://github.com/chizmw/json-on-the-clocktower/pull/14))
+
 ## 0.0.9 - 2023-07-22
 
 ## 0.0.8 - 2023-07-21
 
 ### Fixed
 
-* actually use harpy data in harpy character file
+- actually use harpy data in harpy character file
+
 ## 0.0.7 - 2023-07-21
 
 ### Added
 
-* add character data for harpy
+- add character data for harpy
+
 ## 0.0.6 - 2023-07-12
 
 ### Changed
