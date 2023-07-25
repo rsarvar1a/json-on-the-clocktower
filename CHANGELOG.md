@@ -1,5 +1,11 @@
 # json-on-the-clocktower
 
+## 0.0.12
+
+### Patch Changes
+
+- fix: quote python version value in version-updater workflow ([#24](https://github.com/chizmw/json-on-the-clocktower/pull/24))
+
 ## 0.0.11
 
 ### Patch Changes
