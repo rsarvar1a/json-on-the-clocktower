@@ -1,5 +1,11 @@
 # json-on-the-clocktower
 
+## 0.0.13
+
+### Patch Changes
+
+- fix changeset-release Push Tags step ([#27](https://github.com/chizmw/json-on-the-clocktower/pull/27))
+
 ## 0.0.12
 
 ### Patch Changes
