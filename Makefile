@@ -34,23 +34,6 @@ rebuild-data: install-dev morph external-md5 external-md5-check
 	@git add data/
 	@git commit --no-verify -m "rebuild data"
 
-
-
-release: fmt lint changelog
-	@git tag v$$(poetry version --no-ansi --short)
-	@git push --tags
-
-changelog: next-version
-	@changie batch $$(poetry version --short)
-	@changie merge
-	@git add CHANGELOG.md README.md .changes/
-	@git commit --no-verify -m "changie updates for $$(poetry version --short)" CHANGELOG.md README.md .changes/
-	@git push
-
-next-version:
-	@poetry version patch
-	@git commit --no-verify -m "bump pyproject version to $$(poetry version --short)" pyproject.toml
-
 external-md5:
 	@$(POETRY) run python -m morph.external_md5
 
