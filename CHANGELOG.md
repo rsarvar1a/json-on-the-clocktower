@@ -1,5 +1,11 @@
 # json-on-the-clocktower
 
+## 0.0.11
+
+### Patch Changes
+
+- fix workflows/update-doc-version.yml ([#22](https://github.com/chizmw/json-on-the-clocktower/pull/22))
+
 ## 0.0.10
 
 ### Patch Changes
