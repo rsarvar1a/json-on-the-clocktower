@@ -1,6 +1,6 @@
 # JSON on the Clocktower
 
-![Version](https://img.shields.io/badge/latest-v0.0.15-blue)
+![Version](https://img.shields.io/badge/latest-v0.0.16-blue)
 
 <!-- life's too short to worry about markdownlint in this file -->
 <!-- markdownlint-disable MD013 -->
