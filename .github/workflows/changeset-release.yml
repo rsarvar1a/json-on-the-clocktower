@@ -25,6 +25,8 @@ jobs:
         uses: actions/checkout@v3
         with:
           token: ${{ secrets.CHANGESETS_TOKEN }}
+          # we want to know about all the tags
+          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
