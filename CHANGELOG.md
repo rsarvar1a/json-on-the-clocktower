@@ -1,5 +1,11 @@
 # json-on-the-clocktower
 
+## 0.0.14
+
+### Patch Changes
+
+- fix: don't try to create tags that already exist ([#30](https://github.com/chizmw/json-on-the-clocktower/pull/30))
+
 ## 0.0.13
 
 ### Patch Changes
