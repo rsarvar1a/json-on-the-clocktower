@@ -1,5 +1,11 @@
 # json-on-the-clocktower
 
+## 0.0.15
+
+### Patch Changes
+
+- add version status badge to readme ([#33](https://github.com/chizmw/json-on-the-clocktower/pull/33))
+
 ## 0.0.14
 
 ### Patch Changes
