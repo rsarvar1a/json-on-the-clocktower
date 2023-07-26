@@ -1,5 +1,11 @@
 # json-on-the-clocktower
 
+## 0.0.16
+
+### Patch Changes
+
+- fix: use fetch-depth=0 so we get all the tags in Changeset Release ([#36](https://github.com/chizmw/json-on-the-clocktower/pull/36))
+
 ## 0.0.15
 
 ### Patch Changes
