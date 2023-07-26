@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "json-on-the-clocktower"
-version = "v0.0.13"
+version = "v0.0.14"
 description = "Meld JSON resources into one processed file"
 authors = ["Chisel <chisel@malik-wright.uk>"]
 readme = "README.md"
