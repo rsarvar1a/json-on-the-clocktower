@@ -47,6 +47,17 @@ jobs:
         uses: chizmw/changesets-changelog-info@v0.1.1
         id: get-changelog-info
 
+      - name: Debug Tag Step
+        shell: bash
+        run: |
+          set -x
+          TAG_NAME=${{ steps.get-changelog-info.outputs.last-change-version }}
+          if git tag -l | grep -q "^${TAG_NAME}$"; then
+            echo "Tag ${TAG_NAME} already exists"
+          else
+            echo "Tag ${TAG_NAME} is new"
+          fi
+
       - name: Push Tags
         # https://github.com/changesets/action#custom-publishing
         if: steps.changesets.outputs.hasChangesets == 'false'

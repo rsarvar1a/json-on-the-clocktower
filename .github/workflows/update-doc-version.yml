@@ -47,6 +47,8 @@ jobs:
         # yamllint disable rule:line-length
         run: |
           latest_version="${{ steps.get-changelog-info.outputs.last-change-version }}"
+          # strip the leading v from the version
+          latest_version="${latest_version#v}"
           poetry version "${latest_version}"
         # yamllint enable rule:line-length
 
