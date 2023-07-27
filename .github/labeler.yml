@@ -40,6 +40,7 @@ checks:
         - fix
         - chore
         - docs
+        - changeset
 
   - context: Merge check
     description: Disable merging when 'DO NOT MERGE' label is set
