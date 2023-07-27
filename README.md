@@ -36,7 +36,7 @@ curl \
   --silent \
   --create-dirs \
   -o data/imported/clocktower.json \
-  https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/vv0.0.17/data/generated/roles-combined.json
+  https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/v0.0.17/data/generated/roles-combined.json
 ```
 
 ### python
