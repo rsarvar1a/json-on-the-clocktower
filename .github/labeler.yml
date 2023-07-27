@@ -29,6 +29,11 @@ labels:
       title: '^docs\(changeset\): .*'
       commits: '^docs\(changeset\): .*'
 
+  - label: deps
+    matcher:
+      title: '^chore\(deps\): .*'
+      commits: '^chore\(deps\): .*'
+
 checks:
   - context: Semantic Pull Request
     description:
@@ -36,11 +41,12 @@ checks:
       failure: Missing semantic label for merge.
     labels:
       any:
+        - changeset
+        - chore
+        - deps
+        - docs
         - feat
         - fix
-        - chore
-        - docs
-        - changeset
 
   - context: Merge check
     description: Disable merging when 'DO NOT MERGE' label is set
