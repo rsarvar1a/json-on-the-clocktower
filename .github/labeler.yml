@@ -24,6 +24,11 @@ labels:
       title: '^docs: .*'
       commits: '^docs: .*'
 
+  - label: changeset
+    matcher:
+      title: '^docs\(changeset\): .*'
+      commits: '^docs\(changeset\): .*'
+
 checks:
   - context: Semantic Pull Request
     description:
