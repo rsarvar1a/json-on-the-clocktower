@@ -1,5 +1,15 @@
 # json-on-the-clocktower
 
+## 0.0.18
+
+### Patch Changes
+
+- feat: :label: add workflow and config for [multi-labeler](https://github.com/marketplace/actions/multi-labeler) ([#50](https://github.com/chizmw/json-on-the-clocktower/pull/50))
+
+- fix: trailing whitespace and missing '---' in dependabot config ([#50](https://github.com/chizmw/json-on-the-clocktower/pull/50))
+
+- fix: 'vv' mistake in version replacement ([#50](https://github.com/chizmw/json-on-the-clocktower/pull/50))
+
 ## 0.0.17
 
 ### Patch Changes
