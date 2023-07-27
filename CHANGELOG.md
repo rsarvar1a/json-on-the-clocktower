@@ -1,5 +1,23 @@
 # json-on-the-clocktower
 
+## 0.0.19
+
+### Patch Changes
+
+- chore(deps-dev): bump black from 23.3.0 to 23.7.0 ([#49](https://github.com/chizmw/json-on-the-clocktower/pull/49))
+
+- docs(changeset): bump mypy from 1.3.0 to 1.4.1 ([#44](https://github.com/chizmw/json-on-the-clocktower/pull/44))
+
+- docs(changeset): bump pylint from 2.17.4 to 2.17.5 ([#45](https://github.com/chizmw/json-on-the-clocktower/pull/45))
+
+- docs(changeset): bump types-requests from 2.31.0.0 to 2.31.0.2 ([#46](https://github.com/chizmw/json-on-the-clocktower/pull/46))
+
+- docs(changeset): bump actions/setup-python from 2 to 4 ([#54](https://github.com/chizmw/json-on-the-clocktower/pull/54))
+
+- docs(changeset): bump chizmw/changesets-changelog-info from 0.0.15 to 0.1.1 ([#43](https://github.com/chizmw/json-on-the-clocktower/pull/43))
+
+- docs(changeset): bump click from 8.1.4 to 8.1.6 ([#48](https://github.com/chizmw/json-on-the-clocktower/pull/48))
+
 ## 0.0.18
 
 ### Patch Changes
