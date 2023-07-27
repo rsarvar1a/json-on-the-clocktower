@@ -34,7 +34,7 @@ jobs:
           sed -i "s/latest-v.*-blue/latest-${latest_version}-blue/g" $filelist
 
           # replace the 'get exact version' version
-          sed -i "s/json-on-the-clocktower\/v.*\/data/json-on-the-clocktower\/v${latest_version}\/data/g" $filelist
+          sed -i "s/json-on-the-clocktower\/v.*\/data/json-on-the-clocktower\/${latest_version}\/data/g" $filelist
         # yamllint enable rule:line-length
 
       - name: Install Python
