@@ -27,6 +27,16 @@ curl \
   https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/generated/roles-combined.json
 ```
 
+If you prefer to fetch a specific, fixed, set of data:
+
+```sh
+curl \
+  --silent \
+  --create-dirs \
+  -o data/imported/clocktower.json \
+  https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/v8.9.11/data/generated/roles-combined.json
+```
+
 ### python
 
 Here's code I've been using myself:
