@@ -28,10 +28,13 @@ jobs:
         # yamllint disable rule:line-length
         run: |
           latest_version="${{ steps.get-changelog-info.outputs.last-change-version }}"
-          files="README.md"
+          filelist="README.md"
 
           # replace the version "latest-v0.0.4-blue" with the latest
-          sed -i "s/latest-v.*-blue/latest-${latest_version}-blue/g" $files
+          sed -i "s/latest-v.*-blue/latest-${latest_version}-blue/g" $filelist
+
+          # replace the 'get exact version' version
+          sed -i "s/json-on-the-clocktower\/v.*\/data/json-on-the-clocktower\/v${latest_version}\/data/g" $filelist
         # yamllint enable rule:line-length
 
       - name: Install Python

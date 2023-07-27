@@ -9,15 +9,17 @@
 This project is intended to be a simple-to-use, standalone, source of truth for
 unofficial [Blood on the Clocktower][site-botc] tools.
 
-While working on a separate project I quickly realised how much work I was putting in to just get data shaped in a format that was easy (for me) to use.
+While working on a separate project I quickly realised how much work I was
+putting in to just get data shaped in a format that was easy (for me) to use.
 
 ## How to use
 
-Grab a copy and save it to your project. Either commit it for fewer calls on your part, or just fetch everytime!
+Grab a copy and save it to your project. Either commit it for fewer calls on
+your part or just fetch every time!
 
 ### curl
 
-Here's a quick way to grab the file:
+Here's a quick way to grab the latest file:
 
 ```sh
 curl \
@@ -27,9 +29,19 @@ curl \
   https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/generated/roles-combined.json
 ```
 
+If you prefer to fetch a specific, fixed, set of data:
+
+```sh
+curl \
+  --silent \
+  --create-dirs \
+  -o data/imported/clocktower.json \
+  https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/v8.9.11/data/generated/roles-combined.json
+```
+
 ### python
 
-Here's code I've been using myself:
+Here's the code I've been using myself:
 
 ```python
 
