@@ -1,0 +1,17 @@
+---
+# semantic pull request:
+# https://github.com/marketplace/actions/multi-labeler#githubworkflowpr-triageyml
+name: Labeler
+
+# yamllint disable-line rule:truthy
+on:
+  pull_request:
+    types: [opened, edited, synchronize, ready_for_review]
+    branches: [master, main]
+
+jobs:
+  labeler:
+    name: Labeler
+    runs-on: ubuntu-latest
+    steps:
+      - uses: fuxingloh/multi-labeler@v1
