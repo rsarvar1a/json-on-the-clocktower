@@ -1,5 +1,13 @@
 # json-on-the-clocktower
 
+## 0.0.20
+
+### Patch Changes
+
+- chore(deps): certifi (2023.5.7 -> 2023.7.22) ([#58](https://github.com/chizmw/json-on-the-clocktower/pull/58))
+
+- chore: :label: add labeler support for 'deps-dev' tag ([#56](https://github.com/chizmw/json-on-the-clocktower/pull/56))
+
 ## 0.0.19
 
 ### Patch Changes
