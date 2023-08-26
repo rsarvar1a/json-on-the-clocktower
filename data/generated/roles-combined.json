@@ -1590,6 +1590,22 @@
             "setup": false,
             "team": "townsfolk"
         },
+        "plaguedoctor": {
+            "ability": "If you die, the Storyteller gains a not-in-play Minion ability.",
+            "edition": "experimental",
+            "firstNight": null,
+            "firstNightReminder": null,
+            "id": "plaguedoctor",
+            "image": "your direct url here",
+            "name": "Plague Doctor",
+            "otherNight": null,
+            "otherNightReminder": null,
+            "reminders": [
+                "Storyteller Ability"
+            ],
+            "setup": false,
+            "team": "outsider"
+        },
         "po": {
             "ability": "Each night*, you may choose a player: they die. If your last choice was no-one, choose 3 players tonight.",
             "edition": "bmr",
@@ -2594,6 +2610,11 @@
             "organgrinder": {
                 "id": "organgrinder",
                 "name": "organgrinder",
+                "physicaltoken": false
+            },
+            "plaguedoctor": {
+                "id": "plaguedoctor",
+                "name": "plaguedoctor",
                 "physicaltoken": false
             },
             "politician": {
@@ -5828,6 +5849,22 @@
             "team": "townsfolk"
         },
         {
+            "ability": "If you die, the Storyteller gains a not-in-play Minion ability.",
+            "edition": "experimental",
+            "firstNight": null,
+            "firstNightReminder": null,
+            "id": "plaguedoctor",
+            "image": "your direct url here",
+            "name": "Plague Doctor",
+            "otherNight": null,
+            "otherNightReminder": null,
+            "reminders": [
+                "Storyteller Ability"
+            ],
+            "setup": false,
+            "team": "outsider"
+        },
+        {
             "ability": "You start knowing 1 good player.",
             "edition": "experimental",
             "firstNight": 44,
@@ -6153,6 +6190,10 @@
             {
                 "id": "politician",
                 "name": "Politician"
+            },
+            {
+                "id": "plaguedoctor",
+                "name": "Plague Doctor"
             }
         ],
         "townsfolk": [
