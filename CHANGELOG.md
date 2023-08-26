@@ -1,5 +1,23 @@
 # json-on-the-clocktower
 
+## 0.0.21
+
+### Patch Changes
+
+- chore: add new-character script helper ([#66](https://github.com/chizmw/json-on-the-clocktower/pull/66))
+
+- chore: update sanity test to include extra-characters/ automatically ([#66](https://github.com/chizmw/json-on-the-clocktower/pull/66))
+
+- chore: add vscode extension recommendations ([#69](https://github.com/chizmw/json-on-the-clocktower/pull/69))
+
+- feat: add plaguedoctor character ([#68](https://github.com/chizmw/json-on-the-clocktower/pull/68))
+
+- chore: ignore test results in git ([#68](https://github.com/chizmw/json-on-the-clocktower/pull/68))
+
+- chore(deps-dev): ensure we have our key python dev deps ([#69](https://github.com/chizmw/json-on-the-clocktower/pull/69))
+
+- feat: add bootlegger character ([#66](https://github.com/chizmw/json-on-the-clocktower/pull/66))
+
 ## 0.0.20
 
 ### Patch Changes
