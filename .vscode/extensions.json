@@ -1,0 +1,16 @@
+{
+  "recommendations": [
+    "ms-python.black-formatter",
+    "usernamehw.errorlens",
+    "github.vscode-github-actions",
+    "oderwat.indent-rainbow",
+    "zainchen.json",
+    "matangover.mypy",
+    "sysoev.vscode-open-in-github",
+    "esbenp.prettier-vscode",
+    "ms-python.vscode-pylance",
+    "ms-python.python",
+    "mukundan.python-docs",
+    "shardulm94.trailing-spaces"
+  ]
+}
