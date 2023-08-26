@@ -62,12 +62,26 @@ class TestJsonData:
             "DEMON",
             "DUSK",
             "acrobat",
-            "harpy",
-            "highpriestess",
-            "knight",
             "recluse",
-            "vizier",
         ]
+
+        # we want to always test for extra-characters, so we don't miss
+        # them if they're added
+        # - get the list of files in data/extra-characters
+        # - for each file, load the json
+        # - for each json add the id to expected_keys
+        extra_characters_dir = "data/extra-characters"
+        assert os.path.exists(extra_characters_dir)
+        for filename in os.listdir(extra_characters_dir):
+            if filename.endswith(".json"):
+                with open(
+                    os.path.join(extra_characters_dir, filename), "r", encoding="utf-8"
+                ) as extra_characters_file:
+                    extra_characters_json = json.load(extra_characters_file)
+                    expected_keys.append(extra_characters_json[0]["id"])
+
+        # sort and uniq the list
+        expected_keys = sorted(list(set(expected_keys)))
 
         for key in expected_keys:
             assert (
