@@ -86,6 +86,12 @@ class OneTrueJson:
         if "character_by_id" not in self.data:
             self.data["character_by_id"] = {}
 
+        # this is the base URl for the icons
+        image_base_url = (
+            "https://raw.githubusercontent.com/chizmw/"
+            "json-on-the-clocktower/main/data/icons"
+        )
+
         # loop through the roles
         for role in self.incoming.get_roles_list():
             # cleanup the role ID
@@ -93,6 +99,12 @@ class OneTrueJson:
 
             # set the edition for this role
             edition = self.incoming.get_edition_for_role(role["id"])
+
+            # we should have data/icons/{role_id}.png
+            if not os.path.exists(f"data/images/{role['id']}.png"):
+                raise ValueError(f"Missing image for {role['id']}")
+            # set remote_icon to the URL for the icon
+            role["remote_image"] = f"{image_base_url}/{role['id']}.png"
 
             # if we have an edition, but it's None, move on
             if edition is None:
