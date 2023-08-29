@@ -2,6 +2,13 @@
 
 import json
 import os
+import pytest
+import requests
+
+
+def in_github_actions():
+    """Check if we're running in GitHub Actions"""
+    return os.environ.get("GITHUB_ACTIONS", "false") == "true"
 
 
 class TestJsonData:
@@ -22,6 +29,9 @@ class TestJsonData:
 
         # check the data is loaded
         assert cls.json_data is not None
+
+        # keep track of the URLs we've checked
+        cls._checked_urls = set()
 
     def test_top_level_keys(self):
         """Test that the top-level keys in the data file are as expected."""
@@ -179,3 +189,48 @@ class TestJsonData:
                     assert "id" in self.json_data["editions"][edition][role]
                     assert "name" in self.json_data["editions"][edition][role]
                     assert "physicaltoken" in self.json_data["editions"][edition][role]
+
+    def remote_image_checks(self, url):
+        """Check that the given URL is a sane remote image URL"""
+        # do nothing if we've already checked this URL
+        if self.url_already_checked(url):
+            return
+
+        response = requests.head(url, timeout=5)
+        assert (
+            response.status_code == 200
+        ), f"URL '{url}' returned non-200 response: {response.status_code}"
+        assert (
+            response.headers["content-type"] == "image/png"
+        ), f"URL '{url}' returned non-image/png content-type: {response.headers['content-type']}"
+
+        # name a note that we checked this URL (this time)
+        self._checked_urls.add(url)
+
+    def url_already_checked(self, url):
+        """Check if the given URL has already been checked"""
+        return url in self._checked_urls
+
+    # pytest skip if we are NOT running in GitHub Actions
+    @pytest.mark.skipif(not in_github_actions(), reason="Not running in GitHub Actions")
+    def test_remote_images_by_id(self):
+        """Test that the remote_image URLs are sane in character_by_id"""
+        # all entries in character_by_id should have a remote_image key
+        # and the URL should be a 200 response
+        for role in self.json_data["character_by_id"].values():
+            # key exists
+            assert "remote_image" in role
+            # URL looks sane
+            self.remote_image_checks(role["remote_image"])
+
+    # pytest skip if we are NOT running in GitHub Actions
+    @pytest.mark.skipif(not in_github_actions(), reason="Not running in GitHub Actions")
+    def test_remote_images_role_list(self):
+        """Test that the remote_image URLs are sane in role_list"""
+        # all entries in role_list should have a remote_image key
+        # and the URL should be a 200 response
+        for role in self.json_data["role_list"]:
+            # key exists
+            assert "remote_image" in role
+            # URL looks sane
+            self.remote_image_checks(role["remote_image"])
