@@ -1,5 +1,11 @@
 # json-on-the-clocktower
 
+## 0.0.22
+
+### Patch Changes
+
+- feat: add remote_image to roles ([#72](https://github.com/chizmw/json-on-the-clocktower/pull/72))
+
 ## 0.0.21
 
 ### Patch Changes
