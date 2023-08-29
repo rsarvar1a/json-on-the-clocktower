@@ -89,7 +89,7 @@ class OneTrueJson:
         # this is the base URl for the icons
         image_base_url = (
             "https://raw.githubusercontent.com/chizmw/"
-            "json-on-the-clocktower/main/data/icons"
+            "json-on-the-clocktower/main/data/images"
         )
 
         # loop through the roles
