@@ -1,5 +1,11 @@
 # json-on-the-clocktower
 
+## 0.0.23
+
+### Patch Changes
+
+- fix: use correct url for images ([#75](https://github.com/chizmw/json-on-the-clocktower/pull/75))
+
 ## 0.0.22
 
 ### Patch Changes
