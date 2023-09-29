@@ -1,5 +1,5 @@
 ---
-'houseful-observability-alerting': patch
+'json-on-the-clocktower': patch
 ---
 
-{{ .prTitle }}
+{{ .prTitle -}}

@@ -1,6 +1,5 @@
 ---
-'houseful-observability-alerting': patch
+'json-on-the-clocktower': patch
 ---
 
 chore(deps): bump the dependencies group with 8 updates
-
