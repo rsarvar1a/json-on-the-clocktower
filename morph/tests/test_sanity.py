@@ -220,8 +220,13 @@ class TestJsonData:
         for role in self.json_data["character_by_id"].values():
             # key exists
             assert "remote_image" in role
+            # we can assume we're running in github feature branches
+            # if our branch is NOT main, then we need to replace 'main' in the URL
+            # with our branch name
+            branch = os.environ.get("GITHUB_HEAD_REF", "main")
+            remote_image_url = role["remote_image"].replace("main", branch)
             # URL looks sane
-            self.remote_image_checks(role["remote_image"])
+            self.remote_image_checks(remote_image_url)
 
     # pytest skip if we are NOT running in GitHub Actions
     @pytest.mark.skipif(not in_github_actions(), reason="Not running in GitHub Actions")
@@ -232,5 +237,11 @@ class TestJsonData:
         for role in self.json_data["role_list"]:
             # key exists
             assert "remote_image" in role
+            # we can assume we're running in github feature branches
+            # if our branch is NOT main, then we need to replace 'main' in the URL
+            # with our branch name
+            branch = os.environ.get("GITHUB_HEAD_REF", "main")
+            remote_image_url = role["remote_image"].replace("main", branch)
+
             # URL looks sane
-            self.remote_image_checks(role["remote_image"])
+            self.remote_image_checks(remote_image_url)
