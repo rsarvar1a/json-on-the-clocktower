@@ -68,3 +68,11 @@ jobs:
           git commit -m "docs(changeset): add changeset fragment for ${{ steps.find-pr.outputs.title }}"
           git push origin HEAD
         # yamllint enable rule:line-length
+
+      # this allows passing PRs from dependabot to just auto-merge themselves
+      - uses: peter-evans/enable-pull-request-automerge@v3
+        with:
+          # yamllint disable rule:line-length
+          token: ${{ secrets.CHANGESETS_TOKEN }}
+          pull-request-number: ${{ steps.find-pr.outputs.number }}
+          # yamllint enable rule:line-length
