@@ -1,5 +1,35 @@
 # json-on-the-clocktower
 
+## 0.0.24
+
+### Patch Changes
+
+- add new character data: shugenja; rebuild with external data updated ([#91](https://github.com/chizmw/json-on-the-clocktower/pull/91))
+
+- fix: update remote image URL test for running in feature branches ([#91](https://github.com/chizmw/json-on-the-clocktower/pull/91))
+
+- chore(deps): bump chizmw/changesets-changelog-info from 0.1.1 to 0.1.5 ([#61](https://github.com/chizmw/json-on-the-clocktower/pull/61))
+
+- chore: update dependabot config to group dependencies ([#93](https://github.com/chizmw/json-on-the-clocktower/pull/93))
+
+- chore(deps): bump the dependencies group with 2 updates ([#99](https://github.com/chizmw/json-on-the-clocktower/pull/99))
+
+- chore: add workflow for auto-change-fragment on dependabot PRs ([#93](https://github.com/chizmw/json-on-the-clocktower/pull/93))
+
+- chore(deps): bump the dependencies group with 8 updates ([#95](https://github.com/chizmw/json-on-the-clocktower/pull/95))
+
+- chore(deps-dev): bump pytest from 7.4.0 to 7.4.2 ([#84](https://github.com/chizmw/json-on-the-clocktower/pull/84))
+
+- fix: add missing changeset action template ([#96](https://github.com/chizmw/json-on-the-clocktower/pull/96))
+
+- fix: use correct package name in changeset fragments (mindless copy-pasta horror show) ([#100](https://github.com/chizmw/json-on-the-clocktower/pull/100))
+
+- chore(deps): bump actions/checkout from 3 to 4 ([#82](https://github.com/chizmw/json-on-the-clocktower/pull/82))
+
+- chore: add auto-merge to dependabot PRs ([#98](https://github.com/chizmw/json-on-the-clocktower/pull/98))
+
+- chore(deps-dev): bump mypy from 1.4.1 to 1.5.1 ([#63](https://github.com/chizmw/json-on-the-clocktower/pull/63))
+
 ## 0.0.23
 
 ### Patch Changes
