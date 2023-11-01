@@ -7,7 +7,7 @@
             "firstNightReminder": "Wait approximately 10 seconds. Call for eyes open, then immediately announce which players (if any) died.",
             "id": "DAWN",
             "name": "DAWN",
-            "otherNight": 74,
+            "otherNight": 75,
             "otherNightReminder": "Wait approximately 10 seconds. Call for eyes open, then immediately announce which players (if any) died.",
             "reminders": [],
             "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/DAWN.png",
@@ -63,7 +63,7 @@
             "firstNightReminder": null,
             "id": "acrobat",
             "name": "Acrobat",
-            "otherNight": 40,
+            "otherNight": 41,
             "otherNightReminder": "If a good living neighbour is drunk or poisoned, the Acrobat player dies.",
             "reminders": [
                 "Dead"
@@ -96,7 +96,7 @@
             "firstNightReminder": null,
             "id": "alhadikhia",
             "name": "Al-Hadikhia",
-            "otherNight": 34,
+            "otherNight": 35,
             "otherNightReminder": "The Al-Hadikhia chooses 3 players. Announce the first player, wake them to nod yes to live or shake head no to die, kill or resurrect accordingly, then put to sleep and announce the next player. If all 3 are alive after this, all 3 die.",
             "reminders": [
                 "1",
@@ -116,7 +116,7 @@
             "firstNightReminder": "Decide the Amnesiac's entire ability. If the Amnesiac's ability causes them to wake tonight: Wake the Amnesiac and run their ability.",
             "id": "amnesiac",
             "name": "Amnesiac",
-            "otherNight": 48,
+            "otherNight": 49,
             "otherNightReminder": "If the Amnesiac's ability causes them to wake tonight: Wake the Amnesiac and run their ability.",
             "reminders": [
                 "?"
@@ -181,7 +181,7 @@
             "firstNightReminder": null,
             "id": "assassin",
             "name": "Assassin",
-            "otherNight": 37,
+            "otherNight": 38,
             "otherNightReminder": "If the Assassin has not yet used their ability: The Assassin either shows the 'no' head signal, or points to a player. That player dies.",
             "reminders": [
                 "Dead",
@@ -212,7 +212,7 @@
             "firstNightReminder": "Choose a character type. Point to a player whose character is of that type. Place the Balloonist's Seen reminder next to that character.",
             "id": "balloonist",
             "name": "Balloonist",
-            "otherNight": 63,
+            "otherNight": 64,
             "otherNightReminder": "Choose a character type that does not yet have a Seen reminder next to a character of that type. Point to a player whose character is of that type, if there are any. Place the Balloonist's Seen reminder next to that character.",
             "reminders": [
                 "Seen Townsfolk",
@@ -232,7 +232,7 @@
             "firstNightReminder": null,
             "id": "barber",
             "name": "Barber",
-            "otherNight": 41,
+            "otherNight": 42,
             "otherNightReminder": "If the Barber died today: Wake the Demon. Show the 'This character selected you' card, then Barber token. The Demon either shows a 'no' head signal, or points to 2 players. If they chose players: Swap the character tokens. Wake each player. Show 'You are', then their new character token.",
             "reminders": [
                 "Haircuts tonight"
@@ -355,7 +355,7 @@
             "firstNightReminder": "Point to 1 evil player. Wake the townsfolk who is evil and show them the 'You are' card and the thumbs down evil sign.",
             "id": "bountyhunter",
             "name": "Bounty Hunter",
-            "otherNight": 65,
+            "otherNight": 66,
             "otherNightReminder": "If the known evil player has died, point to another evil player. ",
             "reminders": [
                 "Known"
@@ -415,7 +415,7 @@
             "firstNightReminder": "The Butler points to a player. Mark that player as 'Master'.",
             "id": "butler",
             "name": "Butler",
-            "otherNight": 68,
+            "otherNight": 69,
             "otherNightReminder": "The Butler points to a player. Mark that player as 'Master'.",
             "reminders": [
                 "Master"
@@ -464,7 +464,7 @@
             "firstNightReminder": "The Chambermaid points to two players. Show the number signal (0, 1, 2, \u2026) for how many of those players wake tonight for their ability.",
             "id": "chambermaid",
             "name": "Chambermaid",
-            "otherNight": 72,
+            "otherNight": 73,
             "otherNightReminder": "The Chambermaid points to two players. Show the number signal (0, 1, 2, \u2026) for how many of those players wake tonight for their ability.",
             "reminders": [],
             "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/chambermaid.png",
@@ -492,7 +492,7 @@
             "firstNightReminder": null,
             "id": "choirboy",
             "name": "Choirboy",
-            "otherNight": 45,
+            "otherNight": 46,
             "otherNightReminder": "If the King was killed by the Demon, wake the Choirboy and point to the Demon player.",
             "reminders": [],
             "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/choirboy.png",
@@ -539,7 +539,7 @@
             "firstNightReminder": "If the cult leader changed alignment, show them the thumbs up good signal of the thumbs down evil signal accordingly.",
             "id": "cultleader",
             "name": "Cult Leader",
-            "otherNight": 67,
+            "otherNight": 68,
             "otherNightReminder": "If the cult leader changed alignment, show them the thumbs up good signal of the thumbs down evil signal accordingly.",
             "reminders": [],
             "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/cultleader.png",
@@ -553,7 +553,7 @@
             "firstNightReminder": "Wake all the Minions, show them the 'This character selected you' card and the Damsel token.",
             "id": "damsel",
             "name": "Damsel",
-            "otherNight": 47,
+            "otherNight": 48,
             "otherNightReminder": "If selected by the Huntsman, wake the Damsel, show 'You are' card and a not-in-play Townsfolk token.",
             "reminders": [
                 "Guess used"
@@ -627,7 +627,7 @@
             "firstNightReminder": "The Dreamer points to a player. Show 1 good and 1 evil character token; one of these is correct.",
             "id": "dreamer",
             "name": "Dreamer",
-            "otherNight": 57,
+            "otherNight": 58,
             "otherNightReminder": "The Dreamer points to a player. Show 1 good and 1 evil character token; one of these is correct.",
             "reminders": [],
             "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/dreamer.png",
@@ -675,7 +675,7 @@
             "firstNightReminder": "Show the finger signal (0, 1, 2) for the number of evil alive neighbours of the Empath.",
             "id": "empath",
             "name": "Empath",
-            "otherNight": 54,
+            "otherNight": 55,
             "otherNightReminder": "Show the finger signal (0, 1, 2) for the number of evil neighbours.",
             "reminders": [],
             "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/empath.png",
@@ -754,7 +754,7 @@
             "firstNightReminder": null,
             "id": "farmer",
             "name": "Farmer",
-            "otherNight": 49,
+            "otherNight": 50,
             "otherNightReminder": "If a Farmer died tonight, choose another good player and make them the Farmer. Wake this player, show them the 'You are' card and the Farmer character token.",
             "reminders": [],
             "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/farmer.png",
@@ -830,7 +830,7 @@
             "firstNightReminder": null,
             "id": "flowergirl",
             "name": "Flowergirl",
-            "otherNight": 58,
+            "otherNight": 59,
             "otherNightReminder": "Nod 'yes' or shake head 'no' for whether the Demon voted today. Place the 'Demon not voted' marker (remove 'Demon voted', if any).",
             "reminders": [
                 "Demon voted",
@@ -863,7 +863,7 @@
             "firstNightReminder": "The Fortune Teller points to two players. Give the head signal (nod yes, shake no) for whether one of those players is the Demon. ",
             "id": "fortuneteller",
             "name": "Fortune Teller",
-            "otherNight": 55,
+            "otherNight": 56,
             "otherNightReminder": "The Fortune Teller points to two players. Show the head signal (nod 'yes', shake 'no') for whether one of those players is the Demon.",
             "reminders": [
                 "Red herring"
@@ -909,7 +909,7 @@
             "firstNightReminder": "Show the General thumbs up for good winning, thumbs down for evil winning or thumb to the side for neither.",
             "id": "general",
             "name": "General",
-            "otherNight": 71,
+            "otherNight": 72,
             "otherNightReminder": "Show the General thumbs up for good winning, thumbs down for evil winning or thumb to the side for neither.",
             "reminders": [],
             "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/general.png",
@@ -939,7 +939,7 @@
             "firstNightReminder": "Show each of the Outsider tokens in play.",
             "id": "godfather",
             "name": "Godfather",
-            "otherNight": 38,
+            "otherNight": 39,
             "otherNightReminder": "If an Outsider died today: The Godfather points to a player. That player dies.",
             "reminders": [
                 "Died today",
@@ -988,7 +988,7 @@
             "firstNightReminder": null,
             "id": "gossip",
             "name": "Gossip",
-            "otherNight": 39,
+            "otherNight": 40,
             "otherNightReminder": "If the Gossip\u2019s public statement was true: Choose a player not protected from dying tonight. That player dies.",
             "reminders": [
                 "Dead"
@@ -1004,7 +1004,7 @@
             "firstNightReminder": "Show the marked character token. Point to the marked player.",
             "id": "grandmother",
             "name": "Grandmother",
-            "otherNight": 52,
+            "otherNight": 53,
             "otherNightReminder": "If the Grandmother\u2019s grandchild was killed by the Demon tonight: The Grandmother dies.",
             "reminders": [
                 "Grandchild"
@@ -1099,7 +1099,7 @@
             "id": "highpriestess",
             "image": "your direct url here",
             "name": "High Priestess",
-            "otherNight": 70,
+            "otherNight": 71,
             "otherNightReminder": "Point to a player.",
             "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/highpriestess.png",
             "setup": false,
@@ -1112,7 +1112,7 @@
             "firstNightReminder": "The Huntsman shakes their head 'no' or points to a player. If they point to the Damsel, wake that player, show the 'You are' card and a not-in-play character token.",
             "id": "huntsman",
             "name": "Huntsman",
-            "otherNight": 46,
+            "otherNight": 47,
             "otherNightReminder": "The Huntsman shakes their head 'no' or points to a player. If they point to the Damsel, wake that player, show the 'You are' card and a not-in-play character token.",
             "reminders": [
                 "No ability"
@@ -1194,7 +1194,7 @@
             "firstNightReminder": null,
             "id": "juggler",
             "name": "Juggler",
-            "otherNight": 62,
+            "otherNight": 63,
             "otherNightReminder": "If today was the Juggler\u2019s first day: Show the hand signal for the number (0, 1, 2, etc.) of 'Correct' markers. Remove markers.",
             "reminders": [
                 "Correct"
@@ -1210,7 +1210,7 @@
             "firstNightReminder": "Wake the Demon, show them the 'This character selected you' card, show the King token and point to the King player.",
             "id": "king",
             "name": "King",
-            "otherNight": 64,
+            "otherNight": 65,
             "otherNightReminder": "If there are more dead than living, show the King a character token of a living player.",
             "reminders": [],
             "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/king.png",
@@ -1272,7 +1272,7 @@
             "firstNightReminder": "Place the Leviathan 'Day 1' marker. Announce 'The Leviathan is in play; this is Day 1.'",
             "id": "leviathan",
             "name": "Leviathan",
-            "otherNight": 75,
+            "otherNight": 76,
             "otherNightReminder": "Change the Leviathan Day reminder for the next day.",
             "reminders": [
                 "Day 1",
@@ -1310,7 +1310,7 @@
             "firstNightReminder": "Wake all Minions together, allow them to vote by pointing at who they want to babysit Lil' Monsta.",
             "id": "lilmonsta",
             "name": "Lil' Monsta",
-            "otherNight": 36,
+            "otherNight": 37,
             "otherNightReminder": "Wake all Minions together, allow them to vote by pointing at who they want to babysit Lil' Monsta. Choose a player, that player dies.",
             "reminders": [],
             "remindersGlobal": [
@@ -1328,7 +1328,7 @@
             "firstNightReminder": "The Lleech points to a player. Place the Poisoned reminder token.",
             "id": "lleech",
             "name": "Lleech",
-            "otherNight": 35,
+            "otherNight": 36,
             "otherNightReminder": "The Lleech points to a player. That player dies.",
             "reminders": [
                 "Dead",
@@ -1424,7 +1424,7 @@
             "firstNightReminder": "Show the hand signal for the number (0, 1, 2, etc.) of players whose ability malfunctioned due to other abilities.",
             "id": "mathematician",
             "name": "Mathematician",
-            "otherNight": 73,
+            "otherNight": 74,
             "otherNightReminder": "Show the hand signal for the number (0, 1, 2, etc.) of players whose ability malfunctioned due to other abilities.",
             "reminders": [
                 "Abnormal"
@@ -1534,7 +1534,7 @@
             "firstNightReminder": null,
             "id": "moonchild",
             "name": "Moonchild",
-            "otherNight": 51,
+            "otherNight": 52,
             "otherNightReminder": "If the Moonchild used their ability to target a player today: If that player is good, they die.",
             "reminders": [
                 "Dead"
@@ -1564,7 +1564,7 @@
             "firstNightReminder": "The Nightwatchman may point to a player. Wake that player, show the 'This character selected you' card and the Nightwatchman token, then point to the Nightwatchman player.",
             "id": "nightwatchman",
             "name": "Nightwatchman",
-            "otherNight": 66,
+            "otherNight": 67,
             "otherNightReminder": "The Nightwatchman may point to a player. Wake that player, show the 'This character selected you' card and the Nightwatchman token, then point to the Nightwatchman player.",
             "reminders": [
                 "No ability"
@@ -1606,6 +1606,22 @@
             "setup": false,
             "team": "demon"
         },
+        "ojo": {
+            "ability": "Each night*, choose a character: they die. If they are not in play, the Storyteller chooses who dies.",
+            "edition": "experimental",
+            "firstNight": null,
+            "firstNightReminder": null,
+            "id": "ojo",
+            "image": "[Your Direct URL Here]",
+            "name": "Ojo",
+            "otherNight": 34,
+            "otherNightReminder": "The Ojo points to a character on the sheet; if in play, that player dies. If it is not in play, the Storyteller chooses who dies instead.",
+            "reminders": [
+                "Dead"
+            ],
+            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/ojo.png",
+            "team": "demon"
+        },
         "oracle": {
             "ability": "Each night*, you learn how many dead players are evil.",
             "edition": "snv",
@@ -1613,7 +1629,7 @@
             "firstNightReminder": null,
             "id": "oracle",
             "name": "Oracle",
-            "otherNight": 60,
+            "otherNight": 61,
             "otherNightReminder": "Show the hand signal for the number (0, 1, 2, etc.) of dead evil players.",
             "reminders": [],
             "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/oracle.png",
@@ -1801,7 +1817,7 @@
             "firstNightReminder": null,
             "id": "professor",
             "name": "Professor",
-            "otherNight": 44,
+            "otherNight": 45,
             "otherNightReminder": "If the Professor has not used their ability: The Professor either shakes their head no, or points to a player. If that player is a Townsfolk, they are now alive.",
             "reminders": [
                 "Alive",
@@ -1866,7 +1882,7 @@
             "firstNightReminder": null,
             "id": "ravenkeeper",
             "name": "Ravenkeeper",
-            "otherNight": 53,
+            "otherNight": 54,
             "otherNightReminder": "If the Ravenkeeper died tonight: The Ravenkeeper points to a player. Show that player\u2019s character token.",
             "reminders": [],
             "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/ravenkeeper.png",
@@ -1924,7 +1940,7 @@
             "firstNightReminder": null,
             "id": "sage",
             "name": "Sage",
-            "otherNight": 43,
+            "otherNight": 44,
             "otherNightReminder": "If the Sage was killed by a Demon: Point to two players, one of which is that Demon.",
             "reminders": [],
             "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/sage.png",
@@ -2012,7 +2028,7 @@
             "firstNightReminder": "The Seamstress either shows a 'no' head signal, or points to two other players. If the Seamstress chose players , nod 'yes' or shake 'no' for whether they are of same alignment.",
             "id": "seamstress",
             "name": "Seamstress",
-            "otherNight": 61,
+            "otherNight": 62,
             "otherNightReminder": "If the Seamstress has not yet used their ability: the Seamstress either shows a 'no' head signal, or points to two other players. If the Seamstress chose players , nod 'yes' or shake 'no' for whether they are of same alignment.",
             "reminders": [
                 "No ability"
@@ -2149,7 +2165,7 @@
             "firstNightReminder": "Show the Grimoire to the Spy for as long as they need.",
             "id": "spy",
             "name": "Spy",
-            "otherNight": 69,
+            "otherNight": 70,
             "otherNightReminder": "Show the Grimoire to the Spy for as long as they need.",
             "reminders": [],
             "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/spy.png",
@@ -2196,7 +2212,7 @@
             "firstNightReminder": null,
             "id": "sweetheart",
             "name": "Sweetheart",
-            "otherNight": 42,
+            "otherNight": 43,
             "otherNightReminder": "Choose a player that is drunk.",
             "reminders": [
                 "Drunk"
@@ -2244,7 +2260,7 @@
             "firstNightReminder": null,
             "id": "tinker",
             "name": "Tinker",
-            "otherNight": 50,
+            "otherNight": 51,
             "otherNightReminder": "The Tinker might die.",
             "reminders": [
                 "Dead"
@@ -2260,7 +2276,7 @@
             "firstNightReminder": null,
             "id": "towncrier",
             "name": "Town Crier",
-            "otherNight": 59,
+            "otherNight": 60,
             "otherNightReminder": "Nod 'yes' or shake head 'no' for whether a Minion nominated today. Place the 'Minion not nominated' marker (remove 'Minion nominated', if any).",
             "reminders": [
                 "Minions not nominated",
@@ -2293,7 +2309,7 @@
             "firstNightReminder": null,
             "id": "undertaker",
             "name": "Undertaker",
-            "otherNight": 56,
+            "otherNight": 57,
             "otherNightReminder": "If a player was executed today: Show that player\u2019s character token.",
             "reminders": [
                 "Executed"
@@ -2774,6 +2790,11 @@
             "nightwatchman": {
                 "id": "nightwatchman",
                 "name": "nightwatchman",
+                "physicaltoken": false
+            },
+            "ojo": {
+                "id": "ojo",
+                "name": "ojo",
                 "physicaltoken": false
             },
             "organgrinder": {
@@ -3848,7 +3869,7 @@
             "firstNightReminder": "Show the finger signal (0, 1, 2) for the number of evil alive neighbours of the Empath.",
             "id": "empath",
             "name": "Empath",
-            "otherNight": 54,
+            "otherNight": 55,
             "otherNightReminder": "Show the finger signal (0, 1, 2) for the number of evil neighbours.",
             "reminders": [],
             "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/empath.png",
@@ -3862,7 +3883,7 @@
             "firstNightReminder": "The Fortune Teller points to two players. Give the head signal (nod yes, shake no) for whether one of those players is the Demon. ",
             "id": "fortuneteller",
             "name": "Fortune Teller",
-            "otherNight": 55,
+            "otherNight": 56,
             "otherNightReminder": "The Fortune Teller points to two players. Show the head signal (nod 'yes', shake 'no') for whether one of those players is the Demon.",
             "reminders": [
                 "Red herring"
@@ -3878,7 +3899,7 @@
             "firstNightReminder": null,
             "id": "undertaker",
             "name": "Undertaker",
-            "otherNight": 56,
+            "otherNight": 57,
             "otherNightReminder": "If a player was executed today: Show that player\u2019s character token.",
             "reminders": [
                 "Executed"
@@ -3910,7 +3931,7 @@
             "firstNightReminder": null,
             "id": "ravenkeeper",
             "name": "Ravenkeeper",
-            "otherNight": 53,
+            "otherNight": 54,
             "otherNightReminder": "If the Ravenkeeper died tonight: The Ravenkeeper points to a player. Show that player\u2019s character token.",
             "reminders": [],
             "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/ravenkeeper.png",
@@ -3984,7 +4005,7 @@
             "firstNightReminder": "The Butler points to a player. Mark that player as 'Master'.",
             "id": "butler",
             "name": "Butler",
-            "otherNight": 68,
+            "otherNight": 69,
             "otherNightReminder": "The Butler points to a player. Mark that player as 'Master'.",
             "reminders": [
                 "Master"
@@ -4061,7 +4082,7 @@
             "firstNightReminder": "Show the Grimoire to the Spy for as long as they need.",
             "id": "spy",
             "name": "Spy",
-            "otherNight": 69,
+            "otherNight": 70,
             "otherNightReminder": "Show the Grimoire to the Spy for as long as they need.",
             "reminders": [],
             "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/spy.png",
@@ -4195,7 +4216,7 @@
             "firstNightReminder": "Show the marked character token. Point to the marked player.",
             "id": "grandmother",
             "name": "Grandmother",
-            "otherNight": 52,
+            "otherNight": 53,
             "otherNightReminder": "If the Grandmother\u2019s grandchild was killed by the Demon tonight: The Grandmother dies.",
             "reminders": [
                 "Grandchild"
@@ -4227,7 +4248,7 @@
             "firstNightReminder": "The Chambermaid points to two players. Show the number signal (0, 1, 2, \u2026) for how many of those players wake tonight for their ability.",
             "id": "chambermaid",
             "name": "Chambermaid",
-            "otherNight": 72,
+            "otherNight": 73,
             "otherNightReminder": "The Chambermaid points to two players. Show the number signal (0, 1, 2, \u2026) for how many of those players wake tonight for their ability.",
             "reminders": [],
             "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/chambermaid.png",
@@ -4290,7 +4311,7 @@
             "firstNightReminder": null,
             "id": "gossip",
             "name": "Gossip",
-            "otherNight": 39,
+            "otherNight": 40,
             "otherNightReminder": "If the Gossip\u2019s public statement was true: Choose a player not protected from dying tonight. That player dies.",
             "reminders": [
                 "Dead"
@@ -4325,7 +4346,7 @@
             "firstNightReminder": null,
             "id": "professor",
             "name": "Professor",
-            "otherNight": 44,
+            "otherNight": 45,
             "otherNightReminder": "If the Professor has not used their ability: The Professor either shakes their head no, or points to a player. If that player is a Townsfolk, they are now alive.",
             "reminders": [
                 "Alive",
@@ -4404,7 +4425,7 @@
             "firstNightReminder": null,
             "id": "tinker",
             "name": "Tinker",
-            "otherNight": 50,
+            "otherNight": 51,
             "otherNightReminder": "The Tinker might die.",
             "reminders": [
                 "Dead"
@@ -4420,7 +4441,7 @@
             "firstNightReminder": null,
             "id": "moonchild",
             "name": "Moonchild",
-            "otherNight": 51,
+            "otherNight": 52,
             "otherNightReminder": "If the Moonchild used their ability to target a player today: If that player is good, they die.",
             "reminders": [
                 "Dead"
@@ -4470,7 +4491,7 @@
             "firstNightReminder": "Show each of the Outsider tokens in play.",
             "id": "godfather",
             "name": "Godfather",
-            "otherNight": 38,
+            "otherNight": 39,
             "otherNightReminder": "If an Outsider died today: The Godfather points to a player. That player dies.",
             "reminders": [
                 "Died today",
@@ -4503,7 +4524,7 @@
             "firstNightReminder": null,
             "id": "assassin",
             "name": "Assassin",
-            "otherNight": 37,
+            "otherNight": 38,
             "otherNightReminder": "If the Assassin has not yet used their ability: The Assassin either shows the 'no' head signal, or points to a player. That player dies.",
             "reminders": [
                 "Dead",
@@ -4693,7 +4714,7 @@
             "firstNightReminder": "The Dreamer points to a player. Show 1 good and 1 evil character token; one of these is correct.",
             "id": "dreamer",
             "name": "Dreamer",
-            "otherNight": 57,
+            "otherNight": 58,
             "otherNightReminder": "The Dreamer points to a player. Show 1 good and 1 evil character token; one of these is correct.",
             "reminders": [],
             "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/dreamer.png",
@@ -4723,7 +4744,7 @@
             "firstNightReminder": "Show the hand signal for the number (0, 1, 2, etc.) of players whose ability malfunctioned due to other abilities.",
             "id": "mathematician",
             "name": "Mathematician",
-            "otherNight": 73,
+            "otherNight": 74,
             "otherNightReminder": "Show the hand signal for the number (0, 1, 2, etc.) of players whose ability malfunctioned due to other abilities.",
             "reminders": [
                 "Abnormal"
@@ -4739,7 +4760,7 @@
             "firstNightReminder": null,
             "id": "flowergirl",
             "name": "Flowergirl",
-            "otherNight": 58,
+            "otherNight": 59,
             "otherNightReminder": "Nod 'yes' or shake head 'no' for whether the Demon voted today. Place the 'Demon not voted' marker (remove 'Demon voted', if any).",
             "reminders": [
                 "Demon voted",
@@ -4756,7 +4777,7 @@
             "firstNightReminder": null,
             "id": "towncrier",
             "name": "Town Crier",
-            "otherNight": 59,
+            "otherNight": 60,
             "otherNightReminder": "Nod 'yes' or shake head 'no' for whether a Minion nominated today. Place the 'Minion not nominated' marker (remove 'Minion nominated', if any).",
             "reminders": [
                 "Minions not nominated",
@@ -4773,7 +4794,7 @@
             "firstNightReminder": null,
             "id": "oracle",
             "name": "Oracle",
-            "otherNight": 60,
+            "otherNight": 61,
             "otherNightReminder": "Show the hand signal for the number (0, 1, 2, etc.) of dead evil players.",
             "reminders": [],
             "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/oracle.png",
@@ -4801,7 +4822,7 @@
             "firstNightReminder": "The Seamstress either shows a 'no' head signal, or points to two other players. If the Seamstress chose players , nod 'yes' or shake 'no' for whether they are of same alignment.",
             "id": "seamstress",
             "name": "Seamstress",
-            "otherNight": 61,
+            "otherNight": 62,
             "otherNightReminder": "If the Seamstress has not yet used their ability: the Seamstress either shows a 'no' head signal, or points to two other players. If the Seamstress chose players , nod 'yes' or shake 'no' for whether they are of same alignment.",
             "reminders": [
                 "No ability"
@@ -4850,7 +4871,7 @@
             "firstNightReminder": null,
             "id": "juggler",
             "name": "Juggler",
-            "otherNight": 62,
+            "otherNight": 63,
             "otherNightReminder": "If today was the Juggler\u2019s first day: Show the hand signal for the number (0, 1, 2, etc.) of 'Correct' markers. Remove markers.",
             "reminders": [
                 "Correct"
@@ -4866,7 +4887,7 @@
             "firstNightReminder": null,
             "id": "sage",
             "name": "Sage",
-            "otherNight": 43,
+            "otherNight": 44,
             "otherNightReminder": "If the Sage was killed by a Demon: Point to two players, one of which is that Demon.",
             "reminders": [],
             "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/sage.png",
@@ -4894,7 +4915,7 @@
             "firstNightReminder": null,
             "id": "sweetheart",
             "name": "Sweetheart",
-            "otherNight": 42,
+            "otherNight": 43,
             "otherNightReminder": "Choose a player that is drunk.",
             "reminders": [
                 "Drunk"
@@ -4910,7 +4931,7 @@
             "firstNightReminder": null,
             "id": "barber",
             "name": "Barber",
-            "otherNight": 41,
+            "otherNight": 42,
             "otherNightReminder": "If the Barber died today: Wake the Demon. Show the 'This character selected you' card, then Barber token. The Demon either shows a 'no' head signal, or points to 2 players. If they chose players: Swap the character tokens. Wake each player. Show 'You are', then their new character token.",
             "reminders": [
                 "Haircuts tonight"
@@ -5164,7 +5185,7 @@
             "firstNightReminder": "Point to 1 evil player. Wake the townsfolk who is evil and show them the 'You are' card and the thumbs down evil sign.",
             "id": "bountyhunter",
             "name": "Bounty Hunter",
-            "otherNight": 65,
+            "otherNight": 66,
             "otherNightReminder": "If the known evil player has died, point to another evil player. ",
             "reminders": [
                 "Known"
@@ -5197,7 +5218,7 @@
             "firstNightReminder": "Show the General thumbs up for good winning, thumbs down for evil winning or thumb to the side for neither.",
             "id": "general",
             "name": "General",
-            "otherNight": 71,
+            "otherNight": 72,
             "otherNightReminder": "Show the General thumbs up for good winning, thumbs down for evil winning or thumb to the side for neither.",
             "reminders": [],
             "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/general.png",
@@ -5227,7 +5248,7 @@
             "firstNightReminder": "Wake the Demon, show them the 'This character selected you' card, show the King token and point to the King player.",
             "id": "king",
             "name": "King",
-            "otherNight": 64,
+            "otherNight": 65,
             "otherNightReminder": "If there are more dead than living, show the King a character token of a living player.",
             "reminders": [],
             "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/king.png",
@@ -5241,7 +5262,7 @@
             "firstNightReminder": "Choose a character type. Point to a player whose character is of that type. Place the Balloonist's Seen reminder next to that character.",
             "id": "balloonist",
             "name": "Balloonist",
-            "otherNight": 63,
+            "otherNight": 64,
             "otherNightReminder": "Choose a character type that does not yet have a Seen reminder next to a character of that type. Point to a player whose character is of that type, if there are any. Place the Balloonist's Seen reminder next to that character.",
             "reminders": [
                 "Seen Townsfolk",
@@ -5261,7 +5282,7 @@
             "firstNightReminder": "If the cult leader changed alignment, show them the thumbs up good signal of the thumbs down evil signal accordingly.",
             "id": "cultleader",
             "name": "Cult Leader",
-            "otherNight": 67,
+            "otherNight": 68,
             "otherNightReminder": "If the cult leader changed alignment, show them the thumbs up good signal of the thumbs down evil signal accordingly.",
             "reminders": [],
             "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/cultleader.png",
@@ -5291,7 +5312,7 @@
             "firstNightReminder": "Decide the Amnesiac's entire ability. If the Amnesiac's ability causes them to wake tonight: Wake the Amnesiac and run their ability.",
             "id": "amnesiac",
             "name": "Amnesiac",
-            "otherNight": 48,
+            "otherNight": 49,
             "otherNightReminder": "If the Amnesiac's ability causes them to wake tonight: Wake the Amnesiac and run their ability.",
             "reminders": [
                 "?"
@@ -5307,7 +5328,7 @@
             "firstNightReminder": "The Nightwatchman may point to a player. Wake that player, show the 'This character selected you' card and the Nightwatchman token, then point to the Nightwatchman player.",
             "id": "nightwatchman",
             "name": "Nightwatchman",
-            "otherNight": 66,
+            "otherNight": 67,
             "otherNightReminder": "The Nightwatchman may point to a player. Wake that player, show the 'This character selected you' card and the Nightwatchman token, then point to the Nightwatchman player.",
             "reminders": [
                 "No ability"
@@ -5355,7 +5376,7 @@
             "firstNightReminder": "The Huntsman shakes their head 'no' or points to a player. If they point to the Damsel, wake that player, show the 'You are' card and a not-in-play character token.",
             "id": "huntsman",
             "name": "Huntsman",
-            "otherNight": 46,
+            "otherNight": 47,
             "otherNightReminder": "The Huntsman shakes their head 'no' or points to a player. If they point to the Damsel, wake that player, show the 'You are' card and a not-in-play character token.",
             "reminders": [
                 "No ability"
@@ -5388,7 +5409,7 @@
             "firstNightReminder": null,
             "id": "farmer",
             "name": "Farmer",
-            "otherNight": 49,
+            "otherNight": 50,
             "otherNightReminder": "If a Farmer died tonight, choose another good player and make them the Farmer. Wake this player, show them the 'You are' card and the Farmer character token.",
             "reminders": [],
             "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/farmer.png",
@@ -5416,7 +5437,7 @@
             "firstNightReminder": null,
             "id": "choirboy",
             "name": "Choirboy",
-            "otherNight": 45,
+            "otherNight": 46,
             "otherNightReminder": "If the King was killed by the Demon, wake the Choirboy and point to the Demon player.",
             "reminders": [],
             "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/choirboy.png",
@@ -5491,7 +5512,7 @@
             "firstNightReminder": null,
             "id": "acrobat",
             "name": "Acrobat",
-            "otherNight": 40,
+            "otherNight": 41,
             "otherNightReminder": "If a good living neighbour is drunk or poisoned, the Acrobat player dies.",
             "reminders": [
                 "Dead"
@@ -5538,7 +5559,7 @@
             "firstNightReminder": "Wake all the Minions, show them the 'This character selected you' card and the Damsel token.",
             "id": "damsel",
             "name": "Damsel",
-            "otherNight": 47,
+            "otherNight": 48,
             "otherNightReminder": "If selected by the Huntsman, wake the Damsel, show 'You are' card and a not-in-play Townsfolk token.",
             "reminders": [
                 "Guess used"
@@ -5714,7 +5735,7 @@
             "firstNightReminder": "Wake all Minions together, allow them to vote by pointing at who they want to babysit Lil' Monsta.",
             "id": "lilmonsta",
             "name": "Lil' Monsta",
-            "otherNight": 36,
+            "otherNight": 37,
             "otherNightReminder": "Wake all Minions together, allow them to vote by pointing at who they want to babysit Lil' Monsta. Choose a player, that player dies.",
             "reminders": [],
             "remindersGlobal": [
@@ -5732,7 +5753,7 @@
             "firstNightReminder": "The Lleech points to a player. Place the Poisoned reminder token.",
             "id": "lleech",
             "name": "Lleech",
-            "otherNight": 35,
+            "otherNight": 36,
             "otherNightReminder": "The Lleech points to a player. That player dies.",
             "reminders": [
                 "Dead",
@@ -5749,7 +5770,7 @@
             "firstNightReminder": null,
             "id": "alhadikhia",
             "name": "Al-Hadikhia",
-            "otherNight": 34,
+            "otherNight": 35,
             "otherNightReminder": "The Al-Hadikhia chooses 3 players. Announce the first player, wake them to nod yes to live or shake head no to die, kill or resurrect accordingly, then put to sleep and announce the next player. If all 3 are alive after this, all 3 die.",
             "reminders": [
                 "1",
@@ -5786,7 +5807,7 @@
             "firstNightReminder": "Place the Leviathan 'Day 1' marker. Announce 'The Leviathan is in play; this is Day 1.'",
             "id": "leviathan",
             "name": "Leviathan",
-            "otherNight": 75,
+            "otherNight": 76,
             "otherNightReminder": "Change the Leviathan Day reminder for the next day.",
             "reminders": [
                 "Day 1",
@@ -6077,7 +6098,7 @@
             "firstNightReminder": "Wait approximately 10 seconds. Call for eyes open, then immediately announce which players (if any) died.",
             "id": "DAWN",
             "name": "DAWN",
-            "otherNight": 74,
+            "otherNight": 75,
             "otherNightReminder": "Wait approximately 10 seconds. Call for eyes open, then immediately announce which players (if any) died.",
             "reminders": [],
             "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/DAWN.png",
@@ -6085,30 +6106,18 @@
             "team": "_meta"
         },
         {
-            "ability": "You start knowing if your closest evil player is clockwise or anti-clockwise. If equidistant, this info is arbitrary.",
+            "ability": "Each night, learn which player the Storyteller believes you should talk to most.",
             "edition": "experimental",
-            "firstNight": 48,
-            "firstNightReminder": "Wake the Shugenja; point horizontally in the direction of the closest evil player. If the two closest evil players are equidistant, point your finger horizontally in either direction.",
-            "id": "shugenja",
-            "image": "[Your direct url here]",
-            "name": "Shugenja",
-            "otherNight": null,
-            "otherNightReminder": null,
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/shugenja.png",
+            "firstNight": 53,
+            "firstNightReminder": "Point to a player.",
+            "id": "highpriestess",
+            "image": "your direct url here",
+            "name": "High Priestess",
+            "otherNight": 71,
+            "otherNightReminder": "Point to a player.",
+            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/highpriestess.png",
             "setup": false,
             "team": "townsfolk"
-        },
-        {
-            "ability": "All players know who you are. You can not die during the day. If good voted, you may choose to execute immediately.",
-            "edition": "experimental",
-            "firstNight": 59,
-            "firstNightReminder": "Announce 'The Vizier is in play' and state which player they are.",
-            "id": "vizier",
-            "name": "Vizier",
-            "otherNight": null,
-            "otherNightReminder": null,
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/vizier.png",
-            "team": "minion"
         },
         {
             "ability": "All players keep their eyes closed when voting & the vote tally is secret. Votes for you only count if you vote.",
@@ -6145,49 +6154,20 @@
             "team": "minion"
         },
         {
-            "ability": "Each night, learn which player the Storyteller believes you should talk to most.",
-            "edition": "experimental",
-            "firstNight": 53,
-            "firstNightReminder": "Point to a player.",
-            "id": "highpriestess",
-            "image": "your direct url here",
-            "name": "High Priestess",
-            "otherNight": 70,
-            "otherNightReminder": "Point to a player.",
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/highpriestess.png",
-            "setup": false,
-            "team": "townsfolk"
-        },
-        {
-            "ability": "This script has homebrew characters or rules.",
+            "ability": "Each night*, choose a character: they die. If they are not in play, the Storyteller chooses who dies.",
             "edition": "experimental",
             "firstNight": null,
-            "firstNightReminder": "Announce the Bootlegger is in play and inform the group of all homebrew characters and/or rules you are using in this game. ",
-            "id": "bootlegger",
-            "image": "your direct url here",
-            "name": "Bootlegger",
-            "otherNight": null,
-            "otherNightReminder": null,
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/bootlegger.png",
-            "setup": false,
-            "team": "fabled"
-        },
-        {
-            "ability": "You start knowing 2 players that are not the Demon.",
-            "edition": "experimental",
-            "firstNight": 45,
-            "firstNightReminder": "Point to two players who are not the Demon.",
-            "id": "knight",
-            "image": null,
-            "name": "Knight",
-            "otherNight": null,
-            "otherNightReminder": null,
+            "firstNightReminder": null,
+            "id": "ojo",
+            "image": "[Your Direct URL Here]",
+            "name": "Ojo",
+            "otherNight": 34,
+            "otherNightReminder": "The Ojo points to a character on the sheet; if in play, that player dies. If it is not in play, the Storyteller chooses who dies instead.",
             "reminders": [
-                "Knows"
+                "Dead"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/knight.png",
-            "setup": false,
-            "team": "townsfolk"
+            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/ojo.png",
+            "team": "demon"
         },
         {
             "ability": "If you die, the Storyteller gains a not-in-play Minion ability.",
@@ -6207,6 +6187,49 @@
             "team": "outsider"
         },
         {
+            "ability": "You start knowing if your closest evil player is clockwise or anti-clockwise. If equidistant, this info is arbitrary.",
+            "edition": "experimental",
+            "firstNight": 48,
+            "firstNightReminder": "Wake the Shugenja; point horizontally in the direction of the closest evil player. If the two closest evil players are equidistant, point your finger horizontally in either direction.",
+            "id": "shugenja",
+            "image": "[Your direct url here]",
+            "name": "Shugenja",
+            "otherNight": null,
+            "otherNightReminder": null,
+            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/shugenja.png",
+            "setup": false,
+            "team": "townsfolk"
+        },
+        {
+            "ability": "You start knowing 2 players that are not the Demon.",
+            "edition": "experimental",
+            "firstNight": 45,
+            "firstNightReminder": "Point to two players who are not the Demon.",
+            "id": "knight",
+            "image": null,
+            "name": "Knight",
+            "otherNight": null,
+            "otherNightReminder": null,
+            "reminders": [
+                "Knows"
+            ],
+            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/knight.png",
+            "setup": false,
+            "team": "townsfolk"
+        },
+        {
+            "ability": "All players know who you are. You can not die during the day. If good voted, you may choose to execute immediately.",
+            "edition": "experimental",
+            "firstNight": 59,
+            "firstNightReminder": "Announce 'The Vizier is in play' and state which player they are.",
+            "id": "vizier",
+            "name": "Vizier",
+            "otherNight": null,
+            "otherNightReminder": null,
+            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/vizier.png",
+            "team": "minion"
+        },
+        {
             "ability": "You start knowing 1 good player.",
             "edition": "experimental",
             "firstNight": 44,
@@ -6222,6 +6245,20 @@
             "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/steward.png",
             "setup": false,
             "team": "townsfolk"
+        },
+        {
+            "ability": "This script has homebrew characters or rules.",
+            "edition": "experimental",
+            "firstNight": null,
+            "firstNightReminder": "Announce the Bootlegger is in play and inform the group of all homebrew characters and/or rules you are using in this game. ",
+            "id": "bootlegger",
+            "image": "your direct url here",
+            "name": "Bootlegger",
+            "otherNight": null,
+            "otherNightReminder": null,
+            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/bootlegger.png",
+            "setup": false,
+            "team": "fabled"
         }
     ],
     "teams": {
@@ -6303,6 +6340,10 @@
             {
                 "id": "riot",
                 "name": "Riot"
+            },
+            {
+                "id": "ojo",
+                "name": "Ojo"
             }
         ],
         "fabled": [
@@ -6445,16 +6486,16 @@
                 "name": "Boomdandy"
             },
             {
-                "id": "vizier",
-                "name": "Vizier"
-            },
-            {
                 "id": "organgrinder",
                 "name": "Organ Grinder"
             },
             {
                 "id": "harpy",
                 "name": "Harpy"
+            },
+            {
+                "id": "vizier",
+                "name": "Vizier"
             }
         ],
         "outsider": [
@@ -6781,12 +6822,12 @@
                 "name": "Cannibal"
             },
             {
-                "id": "shugenja",
-                "name": "Shugenja"
-            },
-            {
                 "id": "highpriestess",
                 "name": "High Priestess"
+            },
+            {
+                "id": "shugenja",
+                "name": "Shugenja"
             },
             {
                 "id": "knight",
