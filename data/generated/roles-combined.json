@@ -10,7 +10,7 @@
             "otherNight": 75,
             "otherNightReminder": "Wait approximately 10 seconds. Call for eyes open, then immediately announce which players (if any) died.",
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/DAWN.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/DAWN.png",
             "setup": false,
             "team": "_meta"
         },
@@ -24,7 +24,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/DEMON.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/DEMON.png",
             "setup": false,
             "team": "_meta"
         },
@@ -38,7 +38,7 @@
             "otherNight": 1,
             "otherNightReminder": "Check that all eyes are closed. Some travellers act.",
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/DUSK.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/DUSK.png",
             "setup": false,
             "team": "_meta"
         },
@@ -52,7 +52,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/MINION.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/MINION.png",
             "setup": false,
             "team": "_meta"
         },
@@ -68,7 +68,7 @@
             "reminders": [
                 "Dead"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/acrobat.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/acrobat.png",
             "setup": false,
             "team": "outsider"
         },
@@ -85,7 +85,7 @@
             "remindersGlobal": [
                 "Is the Alchemist"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/alchemist.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/alchemist.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -105,7 +105,7 @@
                 "Chose death",
                 "Chose life"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/alhadikhia.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/alhadikhia.png",
             "setup": false,
             "team": "demon"
         },
@@ -121,7 +121,7 @@
             "reminders": [
                 "?"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/amnesiac.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/amnesiac.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -138,7 +138,7 @@
                 "Protect",
                 "Something Bad"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/angel.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/angel.png",
             "setup": false,
             "team": "fabled"
         },
@@ -154,7 +154,7 @@
             "reminders": [
                 "Is the Apprentice"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/apprentice.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/apprentice.png",
             "setup": false,
             "team": "traveler"
         },
@@ -170,7 +170,7 @@
             "reminders": [
                 "No ability"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/artist.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/artist.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -187,7 +187,7 @@
                 "Dead",
                 "No ability"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/assassin.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/assassin.png",
             "setup": false,
             "team": "minion"
         },
@@ -201,7 +201,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/atheist.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/atheist.png",
             "setup": true,
             "team": "townsfolk"
         },
@@ -221,7 +221,7 @@
                 "Seen Demon",
                 "Seen Traveller"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/balloonist.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/balloonist.png",
             "setup": true,
             "team": "townsfolk"
         },
@@ -237,7 +237,7 @@
             "reminders": [
                 "Haircuts tonight"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/barber.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/barber.png",
             "setup": false,
             "team": "outsider"
         },
@@ -254,7 +254,7 @@
                 "Sober & Healthy",
                 "Ability twice"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/barista.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/barista.png",
             "setup": false,
             "team": "traveler"
         },
@@ -268,7 +268,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/baron.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/baron.png",
             "setup": true,
             "team": "minion"
         },
@@ -282,7 +282,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/beggar.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/beggar.png",
             "setup": false,
             "team": "traveler"
         },
@@ -299,7 +299,7 @@
                 "Nominate good",
                 "Nominate evil"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/bishop.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/bishop.png",
             "setup": false,
             "team": "traveler"
         },
@@ -316,7 +316,7 @@
                 "No ability",
                 "Has ability"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/bonecollector.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/bonecollector.png",
             "setup": false,
             "team": "traveler"
         },
@@ -330,7 +330,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/boomdandy.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/boomdandy.png",
             "setup": false,
             "team": "minion"
         },
@@ -344,7 +344,7 @@
             "name": "Bootlegger",
             "otherNight": null,
             "otherNightReminder": null,
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/bootlegger.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/bootlegger.png",
             "setup": false,
             "team": "fabled"
         },
@@ -360,7 +360,7 @@
             "reminders": [
                 "Known"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/bountyhunter.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/bountyhunter.png",
             "setup": true,
             "team": "townsfolk"
         },
@@ -374,7 +374,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/buddhist.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/buddhist.png",
             "setup": false,
             "team": "fabled"
         },
@@ -390,7 +390,7 @@
             "reminders": [
                 "3 votes"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/bureaucrat.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/bureaucrat.png",
             "setup": false,
             "team": "traveler"
         },
@@ -404,7 +404,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/butcher.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/butcher.png",
             "setup": false,
             "team": "traveler"
         },
@@ -420,7 +420,7 @@
             "reminders": [
                 "Master"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/butler.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/butler.png",
             "setup": false,
             "team": "outsider"
         },
@@ -437,7 +437,7 @@
                 "Poisoned",
                 "Died today"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/cannibal.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/cannibal.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -453,7 +453,7 @@
             "reminders": [
                 "Mad"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/cerenovus.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/cerenovus.png",
             "setup": false,
             "team": "minion"
         },
@@ -467,7 +467,7 @@
             "otherNight": 73,
             "otherNightReminder": "The Chambermaid points to two players. Show the number signal (0, 1, 2, \u2026) for how many of those players wake tonight for their ability.",
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/chambermaid.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/chambermaid.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -481,7 +481,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/chef.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/chef.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -495,7 +495,7 @@
             "otherNight": 46,
             "otherNightReminder": "If the King was killed by the Demon, wake the Choirboy and point to the Demon player.",
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/choirboy.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/choirboy.png",
             "setup": true,
             "team": "townsfolk"
         },
@@ -509,7 +509,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/clockmaker.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/clockmaker.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -528,7 +528,7 @@
                 "Drunk 1",
                 "No ability"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/courtier.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/courtier.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -542,7 +542,7 @@
             "otherNight": 68,
             "otherNightReminder": "If the cult leader changed alignment, show them the thumbs up good signal of the thumbs down evil signal accordingly.",
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/cultleader.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/cultleader.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -558,7 +558,7 @@
             "reminders": [
                 "Guess used"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/damsel.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/damsel.png",
             "setup": false,
             "team": "outsider"
         },
@@ -572,7 +572,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/deviant.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/deviant.png",
             "setup": false,
             "team": "traveler"
         },
@@ -588,7 +588,7 @@
             "reminders": [
                 "Survives execution"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/devilsadvocate.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/devilsadvocate.png",
             "setup": false,
             "team": "minion"
         },
@@ -602,7 +602,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/djinn.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/djinn.png",
             "setup": false,
             "team": "fabled"
         },
@@ -616,7 +616,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/doomsayer.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/doomsayer.png",
             "setup": false,
             "team": "fabled"
         },
@@ -630,7 +630,7 @@
             "otherNight": 58,
             "otherNightReminder": "The Dreamer points to a player. Show 1 good and 1 evil character token; one of these is correct.",
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/dreamer.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/dreamer.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -647,7 +647,7 @@
             "remindersGlobal": [
                 "Drunk"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/drunk.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/drunk.png",
             "setup": true,
             "team": "outsider"
         },
@@ -664,7 +664,7 @@
                 "Visitor",
                 "False Info"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/duchess.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/duchess.png",
             "setup": false,
             "team": "fabled"
         },
@@ -678,7 +678,7 @@
             "otherNight": 55,
             "otherNightReminder": "Show the finger signal (0, 1, 2) for the number of evil neighbours.",
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/empath.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/empath.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -694,7 +694,7 @@
             "reminders": [
                 "No ability"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/engineer.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/engineer.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -710,7 +710,7 @@
             "reminders": [
                 "Twin"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/eviltwin.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/eviltwin.png",
             "setup": false,
             "team": "minion"
         },
@@ -726,7 +726,7 @@
             "reminders": [
                 "Chosen"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/exorcist.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/exorcist.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -743,7 +743,7 @@
                 "Dead",
                 "Once"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/fanggu.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/fanggu.png",
             "setup": true,
             "team": "demon"
         },
@@ -757,7 +757,7 @@
             "otherNight": 50,
             "otherNightReminder": "If a Farmer died tonight, choose another good player and make them the Farmer. Wake this player, show them the 'You are' card and the Farmer character token.",
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/farmer.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/farmer.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -773,7 +773,7 @@
             "reminders": [
                 "Fear"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/fearmonger.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/fearmonger.png",
             "setup": false,
             "team": "minion"
         },
@@ -789,7 +789,7 @@
             "reminders": [
                 "Used"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/fibbin.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/fibbin.png",
             "setup": false,
             "team": "fabled"
         },
@@ -803,7 +803,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/fiddler.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/fiddler.png",
             "setup": false,
             "team": "fabled"
         },
@@ -819,7 +819,7 @@
             "reminders": [
                 "No ability"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/fisherman.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/fisherman.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -836,7 +836,7 @@
                 "Demon voted",
                 "Demon not voted"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/flowergirl.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/flowergirl.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -852,7 +852,7 @@
             "reminders": [
                 "No ability"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/fool.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/fool.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -868,7 +868,7 @@
             "reminders": [
                 "Red herring"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/fortuneteller.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/fortuneteller.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -884,7 +884,7 @@
             "reminders": [
                 "Dead"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/gambler.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/gambler.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -898,7 +898,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/gangster.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/gangster.png",
             "setup": false,
             "team": "traveler"
         },
@@ -912,7 +912,7 @@
             "otherNight": 72,
             "otherNightReminder": "Show the General thumbs up for good winning, thumbs down for evil winning or thumb to the side for neither.",
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/general.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/general.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -928,7 +928,7 @@
             "reminders": [
                 "Claimed"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/goblin.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/goblin.png",
             "setup": false,
             "team": "minion"
         },
@@ -945,7 +945,7 @@
                 "Died today",
                 "Dead"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/godfather.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/godfather.png",
             "setup": true,
             "team": "minion"
         },
@@ -961,7 +961,7 @@
             "reminders": [
                 "Can not nominate"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/golem.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/golem.png",
             "setup": false,
             "team": "outsider"
         },
@@ -977,7 +977,7 @@
             "reminders": [
                 "Drunk"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/goon.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/goon.png",
             "setup": false,
             "team": "outsider"
         },
@@ -993,7 +993,7 @@
             "reminders": [
                 "Dead"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/gossip.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/gossip.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -1009,7 +1009,7 @@
             "reminders": [
                 "Grandchild"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/grandmother.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/grandmother.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -1023,7 +1023,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/gunslinger.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/gunslinger.png",
             "setup": false,
             "team": "traveler"
         },
@@ -1039,7 +1039,7 @@
             "reminders": [
                 "Dead"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/harlot.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/harlot.png",
             "setup": false,
             "team": "traveler"
         },
@@ -1057,7 +1057,7 @@
                 "Mad",
                 "2nd"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/harpy.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/harpy.png",
             "setup": false,
             "team": "minion"
         },
@@ -1073,7 +1073,7 @@
             "reminders": [
                 "Something Bad"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/hellslibrarian.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/hellslibrarian.png",
             "setup": false,
             "team": "fabled"
         },
@@ -1087,7 +1087,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/heretic.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/heretic.png",
             "setup": false,
             "team": "outsider"
         },
@@ -1101,7 +1101,7 @@
             "name": "High Priestess",
             "otherNight": 71,
             "otherNightReminder": "Point to a player.",
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/highpriestess.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/highpriestess.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -1117,7 +1117,7 @@
             "reminders": [
                 "No ability"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/huntsman.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/huntsman.png",
             "setup": true,
             "team": "townsfolk"
         },
@@ -1133,7 +1133,7 @@
             "reminders": [
                 "Dead"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/imp.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/imp.png",
             "setup": false,
             "team": "demon"
         },
@@ -1150,7 +1150,7 @@
                 "Protected",
                 "Drunk"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/innkeeper.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/innkeeper.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -1167,7 +1167,7 @@
                 "Minion",
                 "Wrong"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/investigator.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/investigator.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -1183,7 +1183,7 @@
             "reminders": [
                 "No ability"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/judge.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/judge.png",
             "setup": false,
             "team": "traveler"
         },
@@ -1199,7 +1199,7 @@
             "reminders": [
                 "Correct"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/juggler.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/juggler.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -1213,7 +1213,7 @@
             "otherNight": 65,
             "otherNightReminder": "If there are more dead than living, show the King a character token of a living player.",
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/king.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/king.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -1227,7 +1227,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/klutz.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/klutz.png",
             "setup": false,
             "team": "outsider"
         },
@@ -1244,7 +1244,7 @@
             "reminders": [
                 "Knows"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/knight.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/knight.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -1261,7 +1261,7 @@
                 "Dead",
                 "About to die"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/legion.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/legion.png",
             "setup": true,
             "team": "demon"
         },
@@ -1282,7 +1282,7 @@
                 "Day 5",
                 "Good player executed"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/leviathan.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/leviathan.png",
             "setup": false,
             "team": "demon"
         },
@@ -1299,7 +1299,7 @@
                 "Outsider",
                 "Wrong"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/librarian.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/librarian.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -1317,7 +1317,7 @@
                 "Is the Demon",
                 "Dead"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/lilmonsta.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/lilmonsta.png",
             "setup": true,
             "team": "demon"
         },
@@ -1334,7 +1334,7 @@
                 "Dead",
                 "Poisoned"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/lleech.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/lleech.png",
             "setup": false,
             "team": "demon"
         },
@@ -1352,7 +1352,7 @@
                 "Attack 2",
                 "Attack 3"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/lunatic.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/lunatic.png",
             "setup": false,
             "team": "outsider"
         },
@@ -1368,7 +1368,7 @@
             "reminders": [
                 "Dead"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/lycanthrope.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/lycanthrope.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -1382,7 +1382,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/magician.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/magician.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -1399,7 +1399,7 @@
             "remindersGlobal": [
                 "Is the Marionette"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/marionette.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/marionette.png",
             "setup": true,
             "team": "minion"
         },
@@ -1413,7 +1413,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/mastermind.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/mastermind.png",
             "setup": false,
             "team": "minion"
         },
@@ -1429,7 +1429,7 @@
             "reminders": [
                 "Abnormal"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/mathematician.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/mathematician.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -1443,7 +1443,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/matron.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/matron.png",
             "setup": false,
             "team": "traveler"
         },
@@ -1457,7 +1457,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/mayor.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/mayor.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -1474,7 +1474,7 @@
                 "Turns evil",
                 "No ability"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/mephit.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/mephit.png",
             "setup": false,
             "team": "minion"
         },
@@ -1491,7 +1491,7 @@
                 "Turns evil",
                 "No ability"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/mezepheles.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/mezepheles.png",
             "setup": false,
             "team": "minion"
         },
@@ -1507,7 +1507,7 @@
             "reminders": [
                 "Everyone drunk"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/minstrel.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/minstrel.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -1523,7 +1523,7 @@
             "reminders": [
                 "Protected"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/monk.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/monk.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -1539,7 +1539,7 @@
             "reminders": [
                 "Dead"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/moonchild.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/moonchild.png",
             "setup": false,
             "team": "outsider"
         },
@@ -1553,7 +1553,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/mutant.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/mutant.png",
             "setup": false,
             "team": "outsider"
         },
@@ -1569,7 +1569,7 @@
             "reminders": [
                 "No ability"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/nightwatchman.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/nightwatchman.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -1585,7 +1585,7 @@
             "reminders": [
                 "Seen"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/noble.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/noble.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -1602,7 +1602,7 @@
                 "Dead",
                 "Poisoned"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/nodashii.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/nodashii.png",
             "setup": false,
             "team": "demon"
         },
@@ -1619,7 +1619,7 @@
             "reminders": [
                 "Dead"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/ojo.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/ojo.png",
             "team": "demon"
         },
         "oracle": {
@@ -1632,7 +1632,7 @@
             "otherNight": 61,
             "otherNightReminder": "Show the hand signal for the number (0, 1, 2, etc.) of dead evil players.",
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/oracle.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/oracle.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -1648,7 +1648,7 @@
             "reminders": [
                 "About to die"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/organgrinder.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/organgrinder.png",
             "setup": false,
             "team": "minion"
         },
@@ -1662,7 +1662,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/pacifist.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/pacifist.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -1679,7 +1679,7 @@
                 "Drunk",
                 "Is the Philosopher"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/philosopher.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/philosopher.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -1693,7 +1693,7 @@
             "otherNight": 16,
             "otherNightReminder": "The Pit-Hag points to a player and a character on the sheet. If this character is not in play, wake that player and show them the 'You are' card and the relevant character token. If the character is in play, nothing happens.",
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/pithag.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/pithag.png",
             "setup": false,
             "team": "minion"
         },
@@ -1710,7 +1710,7 @@
                 "Mad",
                 "Has ability"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/pixie.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/pixie.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -1727,7 +1727,7 @@
             "reminders": [
                 "Storyteller Ability"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/plaguedoctor.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/plaguedoctor.png",
             "setup": false,
             "team": "outsider"
         },
@@ -1744,7 +1744,7 @@
                 "Dead",
                 "3 attacks"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/po.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/po.png",
             "setup": false,
             "team": "demon"
         },
@@ -1760,7 +1760,7 @@
             "reminders": [
                 "Poisoned"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/poisoner.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/poisoner.png",
             "setup": false,
             "team": "minion"
         },
@@ -1774,7 +1774,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/politician.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/politician.png",
             "setup": false,
             "team": "outsider"
         },
@@ -1790,7 +1790,7 @@
             "reminders": [
                 "Evil wakes"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/poppygrower.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/poppygrower.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -1806,7 +1806,7 @@
             "reminders": [
                 "At a sermon"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/preacher.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/preacher.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -1823,7 +1823,7 @@
                 "Alive",
                 "No ability"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/professor.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/professor.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -1837,7 +1837,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/psychopath.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/psychopath.png",
             "setup": false,
             "team": "minion"
         },
@@ -1854,7 +1854,7 @@
                 "Poisoned",
                 "Dead"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/pukka.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/pukka.png",
             "setup": false,
             "team": "demon"
         },
@@ -1871,7 +1871,7 @@
                 "Drunk",
                 "Guess used"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/puzzlemaster.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/puzzlemaster.png",
             "setup": false,
             "team": "outsider"
         },
@@ -1885,7 +1885,7 @@
             "otherNight": 54,
             "otherNightReminder": "If the Ravenkeeper died tonight: The Ravenkeeper points to a player. Show that player\u2019s character token.",
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/ravenkeeper.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/ravenkeeper.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -1899,7 +1899,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/recluse.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/recluse.png",
             "setup": false,
             "team": "outsider"
         },
@@ -1915,7 +1915,7 @@
             "reminders": [
                 "Used"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/revolutionary.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/revolutionary.png",
             "setup": false,
             "team": "fabled"
         },
@@ -1929,7 +1929,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/riot.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/riot.png",
             "setup": true,
             "team": "demon"
         },
@@ -1943,7 +1943,7 @@
             "otherNight": 44,
             "otherNightReminder": "If the Sage was killed by a Demon: Point to two players, one of which is that Demon.",
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/sage.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/sage.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -1959,7 +1959,7 @@
             "reminders": [
                 "Drunk"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/sailor.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/sailor.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -1973,7 +1973,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/saint.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/saint.png",
             "setup": false,
             "team": "outsider"
         },
@@ -1987,7 +1987,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/savant.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/savant.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -2001,7 +2001,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/scapegoat.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/scapegoat.png",
             "setup": false,
             "team": "traveler"
         },
@@ -2017,7 +2017,7 @@
             "reminders": [
                 "Demon"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/scarletwoman.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/scarletwoman.png",
             "setup": false,
             "team": "minion"
         },
@@ -2033,7 +2033,7 @@
             "reminders": [
                 "No ability"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/seamstress.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/seamstress.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -2047,7 +2047,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/sentinel.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/sentinel.png",
             "setup": true,
             "team": "fabled"
         },
@@ -2064,7 +2064,7 @@
                 "Dead",
                 "Alive"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/shabaloth.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/shabaloth.png",
             "setup": false,
             "team": "demon"
         },
@@ -2078,7 +2078,7 @@
             "name": "Shugenja",
             "otherNight": null,
             "otherNightReminder": null,
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/shugenja.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/shugenja.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -2094,7 +2094,7 @@
             "reminders": [
                 "No ability"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/slayer.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/slayer.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -2110,7 +2110,7 @@
             "reminders": [
                 "Poisoned"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/snakecharmer.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/snakecharmer.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -2124,7 +2124,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/snitch.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/snitch.png",
             "setup": false,
             "team": "outsider"
         },
@@ -2138,7 +2138,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/soldier.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/soldier.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -2154,7 +2154,7 @@
             "reminders": [
                 "No extra evil"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/spiritofivory.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/spiritofivory.png",
             "setup": false,
             "team": "fabled"
         },
@@ -2168,7 +2168,7 @@
             "otherNight": 70,
             "otherNightReminder": "Show the Grimoire to the Spy for as long as they need.",
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/spy.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/spy.png",
             "setup": false,
             "team": "minion"
         },
@@ -2185,7 +2185,7 @@
             "reminders": [
                 "Knows"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/steward.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/steward.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -2201,7 +2201,7 @@
             "reminders": [
                 "Safe"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/stormcatcher.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/stormcatcher.png",
             "setup": false,
             "team": "fabled"
         },
@@ -2217,7 +2217,7 @@
             "reminders": [
                 "Drunk"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/sweetheart.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/sweetheart.png",
             "setup": false,
             "team": "outsider"
         },
@@ -2233,7 +2233,7 @@
             "reminders": [
                 "Can not die"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/tealady.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/tealady.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -2249,7 +2249,7 @@
             "reminders": [
                 "Negative vote"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/thief.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/thief.png",
             "setup": false,
             "team": "traveler"
         },
@@ -2265,7 +2265,7 @@
             "reminders": [
                 "Dead"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/tinker.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/tinker.png",
             "setup": false,
             "team": "outsider"
         },
@@ -2282,7 +2282,7 @@
                 "Minions not nominated",
                 "Minion nominated"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/towncrier.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/towncrier.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -2298,7 +2298,7 @@
             "reminders": [
                 "Final Night: No Attack"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/toymaker.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/toymaker.png",
             "setup": false,
             "team": "fabled"
         },
@@ -2314,7 +2314,7 @@
             "reminders": [
                 "Executed"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/undertaker.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/undertaker.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -2332,7 +2332,7 @@
                 "Has ability",
                 "Poisoned"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/vigormortis.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/vigormortis.png",
             "setup": true,
             "team": "demon"
         },
@@ -2348,7 +2348,7 @@
             "reminders": [
                 "No ability"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/virgin.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/virgin.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -2361,7 +2361,7 @@
             "name": "Vizier",
             "otherNight": null,
             "otherNightReminder": null,
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/vizier.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/vizier.png",
             "team": "minion"
         },
         "vortox": {
@@ -2376,7 +2376,7 @@
             "reminders": [
                 "Dead"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/vortox.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/vortox.png",
             "setup": false,
             "team": "demon"
         },
@@ -2390,7 +2390,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/voudon.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/voudon.png",
             "setup": false,
             "team": "traveler"
         },
@@ -2407,7 +2407,7 @@
                 "Townsfolk",
                 "Wrong"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/washerwoman.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/washerwoman.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -2426,7 +2426,7 @@
             "remindersGlobal": [
                 "Knows"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/widow.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/widow.png",
             "setup": false,
             "team": "minion"
         },
@@ -2442,7 +2442,7 @@
             "reminders": [
                 "Cursed"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/witch.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/witch.png",
             "setup": false,
             "team": "minion"
         },
@@ -2459,7 +2459,7 @@
                 "Died today",
                 "Dead"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/zombuul.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/zombuul.png",
             "setup": false,
             "team": "demon"
         }
@@ -3810,7 +3810,7 @@
                 "Townsfolk",
                 "Wrong"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/washerwoman.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/washerwoman.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -3827,7 +3827,7 @@
                 "Outsider",
                 "Wrong"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/librarian.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/librarian.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -3844,7 +3844,7 @@
                 "Minion",
                 "Wrong"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/investigator.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/investigator.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -3858,7 +3858,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/chef.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/chef.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -3872,7 +3872,7 @@
             "otherNight": 55,
             "otherNightReminder": "Show the finger signal (0, 1, 2) for the number of evil neighbours.",
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/empath.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/empath.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -3888,7 +3888,7 @@
             "reminders": [
                 "Red herring"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/fortuneteller.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/fortuneteller.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -3904,7 +3904,7 @@
             "reminders": [
                 "Executed"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/undertaker.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/undertaker.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -3920,7 +3920,7 @@
             "reminders": [
                 "Protected"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/monk.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/monk.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -3934,7 +3934,7 @@
             "otherNight": 54,
             "otherNightReminder": "If the Ravenkeeper died tonight: The Ravenkeeper points to a player. Show that player\u2019s character token.",
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/ravenkeeper.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/ravenkeeper.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -3950,7 +3950,7 @@
             "reminders": [
                 "No ability"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/virgin.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/virgin.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -3966,7 +3966,7 @@
             "reminders": [
                 "No ability"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/slayer.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/slayer.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -3980,7 +3980,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/soldier.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/soldier.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -3994,7 +3994,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/mayor.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/mayor.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -4010,7 +4010,7 @@
             "reminders": [
                 "Master"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/butler.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/butler.png",
             "setup": false,
             "team": "outsider"
         },
@@ -4027,7 +4027,7 @@
             "remindersGlobal": [
                 "Drunk"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/drunk.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/drunk.png",
             "setup": true,
             "team": "outsider"
         },
@@ -4041,7 +4041,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/recluse.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/recluse.png",
             "setup": false,
             "team": "outsider"
         },
@@ -4055,7 +4055,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/saint.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/saint.png",
             "setup": false,
             "team": "outsider"
         },
@@ -4071,7 +4071,7 @@
             "reminders": [
                 "Poisoned"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/poisoner.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/poisoner.png",
             "setup": false,
             "team": "minion"
         },
@@ -4085,7 +4085,7 @@
             "otherNight": 70,
             "otherNightReminder": "Show the Grimoire to the Spy for as long as they need.",
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/spy.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/spy.png",
             "setup": false,
             "team": "minion"
         },
@@ -4101,7 +4101,7 @@
             "reminders": [
                 "Demon"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/scarletwoman.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/scarletwoman.png",
             "setup": false,
             "team": "minion"
         },
@@ -4115,7 +4115,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/baron.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/baron.png",
             "setup": true,
             "team": "minion"
         },
@@ -4131,7 +4131,7 @@
             "reminders": [
                 "Dead"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/imp.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/imp.png",
             "setup": false,
             "team": "demon"
         },
@@ -4147,7 +4147,7 @@
             "reminders": [
                 "3 votes"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/bureaucrat.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/bureaucrat.png",
             "setup": false,
             "team": "traveler"
         },
@@ -4163,7 +4163,7 @@
             "reminders": [
                 "Negative vote"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/thief.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/thief.png",
             "setup": false,
             "team": "traveler"
         },
@@ -4177,7 +4177,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/gunslinger.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/gunslinger.png",
             "setup": false,
             "team": "traveler"
         },
@@ -4191,7 +4191,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/scapegoat.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/scapegoat.png",
             "setup": false,
             "team": "traveler"
         },
@@ -4205,7 +4205,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/beggar.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/beggar.png",
             "setup": false,
             "team": "traveler"
         },
@@ -4221,7 +4221,7 @@
             "reminders": [
                 "Grandchild"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/grandmother.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/grandmother.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -4237,7 +4237,7 @@
             "reminders": [
                 "Drunk"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/sailor.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/sailor.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -4251,7 +4251,7 @@
             "otherNight": 73,
             "otherNightReminder": "The Chambermaid points to two players. Show the number signal (0, 1, 2, \u2026) for how many of those players wake tonight for their ability.",
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/chambermaid.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/chambermaid.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -4267,7 +4267,7 @@
             "reminders": [
                 "Chosen"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/exorcist.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/exorcist.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -4284,7 +4284,7 @@
                 "Protected",
                 "Drunk"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/innkeeper.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/innkeeper.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -4300,7 +4300,7 @@
             "reminders": [
                 "Dead"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/gambler.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/gambler.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -4316,7 +4316,7 @@
             "reminders": [
                 "Dead"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/gossip.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/gossip.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -4335,7 +4335,7 @@
                 "Drunk 1",
                 "No ability"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/courtier.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/courtier.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -4352,7 +4352,7 @@
                 "Alive",
                 "No ability"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/professor.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/professor.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -4368,7 +4368,7 @@
             "reminders": [
                 "Everyone drunk"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/minstrel.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/minstrel.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -4384,7 +4384,7 @@
             "reminders": [
                 "Can not die"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/tealady.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/tealady.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -4398,7 +4398,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/pacifist.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/pacifist.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -4414,7 +4414,7 @@
             "reminders": [
                 "No ability"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/fool.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/fool.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -4430,7 +4430,7 @@
             "reminders": [
                 "Dead"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/tinker.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/tinker.png",
             "setup": false,
             "team": "outsider"
         },
@@ -4446,7 +4446,7 @@
             "reminders": [
                 "Dead"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/moonchild.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/moonchild.png",
             "setup": false,
             "team": "outsider"
         },
@@ -4462,7 +4462,7 @@
             "reminders": [
                 "Drunk"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/goon.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/goon.png",
             "setup": false,
             "team": "outsider"
         },
@@ -4480,7 +4480,7 @@
                 "Attack 2",
                 "Attack 3"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/lunatic.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/lunatic.png",
             "setup": false,
             "team": "outsider"
         },
@@ -4497,7 +4497,7 @@
                 "Died today",
                 "Dead"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/godfather.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/godfather.png",
             "setup": true,
             "team": "minion"
         },
@@ -4513,7 +4513,7 @@
             "reminders": [
                 "Survives execution"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/devilsadvocate.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/devilsadvocate.png",
             "setup": false,
             "team": "minion"
         },
@@ -4530,7 +4530,7 @@
                 "Dead",
                 "No ability"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/assassin.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/assassin.png",
             "setup": false,
             "team": "minion"
         },
@@ -4544,7 +4544,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/mastermind.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/mastermind.png",
             "setup": false,
             "team": "minion"
         },
@@ -4561,7 +4561,7 @@
                 "Died today",
                 "Dead"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/zombuul.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/zombuul.png",
             "setup": false,
             "team": "demon"
         },
@@ -4578,7 +4578,7 @@
                 "Poisoned",
                 "Dead"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/pukka.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/pukka.png",
             "setup": false,
             "team": "demon"
         },
@@ -4595,7 +4595,7 @@
                 "Dead",
                 "Alive"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/shabaloth.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/shabaloth.png",
             "setup": false,
             "team": "demon"
         },
@@ -4612,7 +4612,7 @@
                 "Dead",
                 "3 attacks"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/po.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/po.png",
             "setup": false,
             "team": "demon"
         },
@@ -4628,7 +4628,7 @@
             "reminders": [
                 "Is the Apprentice"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/apprentice.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/apprentice.png",
             "setup": false,
             "team": "traveler"
         },
@@ -4642,7 +4642,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/matron.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/matron.png",
             "setup": false,
             "team": "traveler"
         },
@@ -4658,7 +4658,7 @@
             "reminders": [
                 "No ability"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/judge.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/judge.png",
             "setup": false,
             "team": "traveler"
         },
@@ -4675,7 +4675,7 @@
                 "Nominate good",
                 "Nominate evil"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/bishop.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/bishop.png",
             "setup": false,
             "team": "traveler"
         },
@@ -4689,7 +4689,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/voudon.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/voudon.png",
             "setup": false,
             "team": "traveler"
         },
@@ -4703,7 +4703,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/clockmaker.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/clockmaker.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -4717,7 +4717,7 @@
             "otherNight": 58,
             "otherNightReminder": "The Dreamer points to a player. Show 1 good and 1 evil character token; one of these is correct.",
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/dreamer.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/dreamer.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -4733,7 +4733,7 @@
             "reminders": [
                 "Poisoned"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/snakecharmer.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/snakecharmer.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -4749,7 +4749,7 @@
             "reminders": [
                 "Abnormal"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/mathematician.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/mathematician.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -4766,7 +4766,7 @@
                 "Demon voted",
                 "Demon not voted"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/flowergirl.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/flowergirl.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -4783,7 +4783,7 @@
                 "Minions not nominated",
                 "Minion nominated"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/towncrier.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/towncrier.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -4797,7 +4797,7 @@
             "otherNight": 61,
             "otherNightReminder": "Show the hand signal for the number (0, 1, 2, etc.) of dead evil players.",
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/oracle.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/oracle.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -4811,7 +4811,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/savant.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/savant.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -4827,7 +4827,7 @@
             "reminders": [
                 "No ability"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/seamstress.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/seamstress.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -4844,7 +4844,7 @@
                 "Drunk",
                 "Is the Philosopher"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/philosopher.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/philosopher.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -4860,7 +4860,7 @@
             "reminders": [
                 "No ability"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/artist.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/artist.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -4876,7 +4876,7 @@
             "reminders": [
                 "Correct"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/juggler.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/juggler.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -4890,7 +4890,7 @@
             "otherNight": 44,
             "otherNightReminder": "If the Sage was killed by a Demon: Point to two players, one of which is that Demon.",
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/sage.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/sage.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -4904,7 +4904,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/mutant.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/mutant.png",
             "setup": false,
             "team": "outsider"
         },
@@ -4920,7 +4920,7 @@
             "reminders": [
                 "Drunk"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/sweetheart.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/sweetheart.png",
             "setup": false,
             "team": "outsider"
         },
@@ -4936,7 +4936,7 @@
             "reminders": [
                 "Haircuts tonight"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/barber.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/barber.png",
             "setup": false,
             "team": "outsider"
         },
@@ -4950,7 +4950,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/klutz.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/klutz.png",
             "setup": false,
             "team": "outsider"
         },
@@ -4966,7 +4966,7 @@
             "reminders": [
                 "Twin"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/eviltwin.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/eviltwin.png",
             "setup": false,
             "team": "minion"
         },
@@ -4982,7 +4982,7 @@
             "reminders": [
                 "Cursed"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/witch.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/witch.png",
             "setup": false,
             "team": "minion"
         },
@@ -4998,7 +4998,7 @@
             "reminders": [
                 "Mad"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/cerenovus.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/cerenovus.png",
             "setup": false,
             "team": "minion"
         },
@@ -5012,7 +5012,7 @@
             "otherNight": 16,
             "otherNightReminder": "The Pit-Hag points to a player and a character on the sheet. If this character is not in play, wake that player and show them the 'You are' card and the relevant character token. If the character is in play, nothing happens.",
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/pithag.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/pithag.png",
             "setup": false,
             "team": "minion"
         },
@@ -5029,7 +5029,7 @@
                 "Dead",
                 "Once"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/fanggu.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/fanggu.png",
             "setup": true,
             "team": "demon"
         },
@@ -5047,7 +5047,7 @@
                 "Has ability",
                 "Poisoned"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/vigormortis.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/vigormortis.png",
             "setup": true,
             "team": "demon"
         },
@@ -5064,7 +5064,7 @@
                 "Dead",
                 "Poisoned"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/nodashii.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/nodashii.png",
             "setup": false,
             "team": "demon"
         },
@@ -5080,7 +5080,7 @@
             "reminders": [
                 "Dead"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/vortox.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/vortox.png",
             "setup": false,
             "team": "demon"
         },
@@ -5097,7 +5097,7 @@
                 "Sober & Healthy",
                 "Ability twice"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/barista.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/barista.png",
             "setup": false,
             "team": "traveler"
         },
@@ -5113,7 +5113,7 @@
             "reminders": [
                 "Dead"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/harlot.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/harlot.png",
             "setup": false,
             "team": "traveler"
         },
@@ -5127,7 +5127,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/butcher.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/butcher.png",
             "setup": false,
             "team": "traveler"
         },
@@ -5144,7 +5144,7 @@
                 "No ability",
                 "Has ability"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/bonecollector.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/bonecollector.png",
             "setup": false,
             "team": "traveler"
         },
@@ -5158,7 +5158,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/deviant.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/deviant.png",
             "setup": false,
             "team": "traveler"
         },
@@ -5174,7 +5174,7 @@
             "reminders": [
                 "Seen"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/noble.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/noble.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -5190,7 +5190,7 @@
             "reminders": [
                 "Known"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/bountyhunter.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/bountyhunter.png",
             "setup": true,
             "team": "townsfolk"
         },
@@ -5207,7 +5207,7 @@
                 "Mad",
                 "Has ability"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/pixie.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/pixie.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -5221,7 +5221,7 @@
             "otherNight": 72,
             "otherNightReminder": "Show the General thumbs up for good winning, thumbs down for evil winning or thumb to the side for neither.",
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/general.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/general.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -5237,7 +5237,7 @@
             "reminders": [
                 "At a sermon"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/preacher.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/preacher.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -5251,7 +5251,7 @@
             "otherNight": 65,
             "otherNightReminder": "If there are more dead than living, show the King a character token of a living player.",
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/king.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/king.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -5271,7 +5271,7 @@
                 "Seen Demon",
                 "Seen Traveller"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/balloonist.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/balloonist.png",
             "setup": true,
             "team": "townsfolk"
         },
@@ -5285,7 +5285,7 @@
             "otherNight": 68,
             "otherNightReminder": "If the cult leader changed alignment, show them the thumbs up good signal of the thumbs down evil signal accordingly.",
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/cultleader.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/cultleader.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -5301,7 +5301,7 @@
             "reminders": [
                 "Dead"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/lycanthrope.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/lycanthrope.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -5317,7 +5317,7 @@
             "reminders": [
                 "?"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/amnesiac.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/amnesiac.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -5333,7 +5333,7 @@
             "reminders": [
                 "No ability"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/nightwatchman.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/nightwatchman.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -5349,7 +5349,7 @@
             "reminders": [
                 "No ability"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/engineer.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/engineer.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -5365,7 +5365,7 @@
             "reminders": [
                 "No ability"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/fisherman.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/fisherman.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -5381,7 +5381,7 @@
             "reminders": [
                 "No ability"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/huntsman.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/huntsman.png",
             "setup": true,
             "team": "townsfolk"
         },
@@ -5398,7 +5398,7 @@
             "remindersGlobal": [
                 "Is the Alchemist"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/alchemist.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/alchemist.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -5412,7 +5412,7 @@
             "otherNight": 50,
             "otherNightReminder": "If a Farmer died tonight, choose another good player and make them the Farmer. Wake this player, show them the 'You are' card and the Farmer character token.",
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/farmer.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/farmer.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -5426,7 +5426,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/magician.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/magician.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -5440,7 +5440,7 @@
             "otherNight": 46,
             "otherNightReminder": "If the King was killed by the Demon, wake the Choirboy and point to the Demon player.",
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/choirboy.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/choirboy.png",
             "setup": true,
             "team": "townsfolk"
         },
@@ -5456,7 +5456,7 @@
             "reminders": [
                 "Evil wakes"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/poppygrower.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/poppygrower.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -5470,7 +5470,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/atheist.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/atheist.png",
             "setup": true,
             "team": "townsfolk"
         },
@@ -5487,7 +5487,7 @@
                 "Poisoned",
                 "Died today"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/cannibal.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/cannibal.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -5501,7 +5501,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/snitch.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/snitch.png",
             "setup": false,
             "team": "outsider"
         },
@@ -5517,7 +5517,7 @@
             "reminders": [
                 "Dead"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/acrobat.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/acrobat.png",
             "setup": false,
             "team": "outsider"
         },
@@ -5534,7 +5534,7 @@
                 "Drunk",
                 "Guess used"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/puzzlemaster.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/puzzlemaster.png",
             "setup": false,
             "team": "outsider"
         },
@@ -5548,7 +5548,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/heretic.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/heretic.png",
             "setup": false,
             "team": "outsider"
         },
@@ -5564,7 +5564,7 @@
             "reminders": [
                 "Guess used"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/damsel.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/damsel.png",
             "setup": false,
             "team": "outsider"
         },
@@ -5580,7 +5580,7 @@
             "reminders": [
                 "Can not nominate"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/golem.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/golem.png",
             "setup": false,
             "team": "outsider"
         },
@@ -5594,7 +5594,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/politician.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/politician.png",
             "setup": false,
             "team": "outsider"
         },
@@ -5613,7 +5613,7 @@
             "remindersGlobal": [
                 "Knows"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/widow.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/widow.png",
             "setup": false,
             "team": "minion"
         },
@@ -5629,7 +5629,7 @@
             "reminders": [
                 "Fear"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/fearmonger.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/fearmonger.png",
             "setup": false,
             "team": "minion"
         },
@@ -5643,7 +5643,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/psychopath.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/psychopath.png",
             "setup": false,
             "team": "minion"
         },
@@ -5659,7 +5659,7 @@
             "reminders": [
                 "Claimed"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/goblin.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/goblin.png",
             "setup": false,
             "team": "minion"
         },
@@ -5676,7 +5676,7 @@
                 "Turns evil",
                 "No ability"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/mephit.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/mephit.png",
             "setup": false,
             "team": "minion"
         },
@@ -5693,7 +5693,7 @@
                 "Turns evil",
                 "No ability"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/mezepheles.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/mezepheles.png",
             "setup": false,
             "team": "minion"
         },
@@ -5710,7 +5710,7 @@
             "remindersGlobal": [
                 "Is the Marionette"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/marionette.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/marionette.png",
             "setup": true,
             "team": "minion"
         },
@@ -5724,7 +5724,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/boomdandy.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/boomdandy.png",
             "setup": false,
             "team": "minion"
         },
@@ -5742,7 +5742,7 @@
                 "Is the Demon",
                 "Dead"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/lilmonsta.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/lilmonsta.png",
             "setup": true,
             "team": "demon"
         },
@@ -5759,7 +5759,7 @@
                 "Dead",
                 "Poisoned"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/lleech.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/lleech.png",
             "setup": false,
             "team": "demon"
         },
@@ -5779,7 +5779,7 @@
                 "Chose death",
                 "Chose life"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/alhadikhia.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/alhadikhia.png",
             "setup": false,
             "team": "demon"
         },
@@ -5796,7 +5796,7 @@
                 "Dead",
                 "About to die"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/legion.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/legion.png",
             "setup": true,
             "team": "demon"
         },
@@ -5817,7 +5817,7 @@
                 "Day 5",
                 "Good player executed"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/leviathan.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/leviathan.png",
             "setup": false,
             "team": "demon"
         },
@@ -5831,7 +5831,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/riot.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/riot.png",
             "setup": true,
             "team": "demon"
         },
@@ -5845,7 +5845,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/gangster.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/gangster.png",
             "setup": false,
             "team": "traveler"
         },
@@ -5859,7 +5859,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/doomsayer.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/doomsayer.png",
             "setup": false,
             "team": "fabled"
         },
@@ -5876,7 +5876,7 @@
                 "Protect",
                 "Something Bad"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/angel.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/angel.png",
             "setup": false,
             "team": "fabled"
         },
@@ -5890,7 +5890,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/buddhist.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/buddhist.png",
             "setup": false,
             "team": "fabled"
         },
@@ -5906,7 +5906,7 @@
             "reminders": [
                 "Something Bad"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/hellslibrarian.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/hellslibrarian.png",
             "setup": false,
             "team": "fabled"
         },
@@ -5922,7 +5922,7 @@
             "reminders": [
                 "Used"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/revolutionary.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/revolutionary.png",
             "setup": false,
             "team": "fabled"
         },
@@ -5936,7 +5936,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/fiddler.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/fiddler.png",
             "setup": false,
             "team": "fabled"
         },
@@ -5952,7 +5952,7 @@
             "reminders": [
                 "Final Night: No Attack"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/toymaker.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/toymaker.png",
             "setup": false,
             "team": "fabled"
         },
@@ -5968,7 +5968,7 @@
             "reminders": [
                 "Used"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/fibbin.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/fibbin.png",
             "setup": false,
             "team": "fabled"
         },
@@ -5985,7 +5985,7 @@
                 "Visitor",
                 "False Info"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/duchess.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/duchess.png",
             "setup": false,
             "team": "fabled"
         },
@@ -5999,7 +5999,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/sentinel.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/sentinel.png",
             "setup": true,
             "team": "fabled"
         },
@@ -6015,7 +6015,7 @@
             "reminders": [
                 "No extra evil"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/spiritofivory.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/spiritofivory.png",
             "setup": false,
             "team": "fabled"
         },
@@ -6029,7 +6029,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/djinn.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/djinn.png",
             "setup": false,
             "team": "fabled"
         },
@@ -6045,7 +6045,7 @@
             "reminders": [
                 "Safe"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/stormcatcher.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/stormcatcher.png",
             "setup": false,
             "team": "fabled"
         },
@@ -6059,7 +6059,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/MINION.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/MINION.png",
             "setup": false,
             "team": "_meta"
         },
@@ -6073,7 +6073,7 @@
             "otherNight": null,
             "otherNightReminder": null,
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/DEMON.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/DEMON.png",
             "setup": false,
             "team": "_meta"
         },
@@ -6087,7 +6087,7 @@
             "otherNight": 1,
             "otherNightReminder": "Check that all eyes are closed. Some travellers act.",
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/DUSK.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/DUSK.png",
             "setup": false,
             "team": "_meta"
         },
@@ -6101,7 +6101,7 @@
             "otherNight": 75,
             "otherNightReminder": "Wait approximately 10 seconds. Call for eyes open, then immediately announce which players (if any) died.",
             "reminders": [],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/DAWN.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/DAWN.png",
             "setup": false,
             "team": "_meta"
         },
@@ -6115,7 +6115,7 @@
             "name": "High Priestess",
             "otherNight": 71,
             "otherNightReminder": "Point to a player.",
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/highpriestess.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/highpriestess.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -6131,7 +6131,7 @@
             "reminders": [
                 "About to die"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/organgrinder.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/organgrinder.png",
             "setup": false,
             "team": "minion"
         },
@@ -6149,7 +6149,7 @@
                 "Mad",
                 "2nd"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/harpy.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/harpy.png",
             "setup": false,
             "team": "minion"
         },
@@ -6166,7 +6166,7 @@
             "reminders": [
                 "Dead"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/ojo.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/ojo.png",
             "team": "demon"
         },
         {
@@ -6182,7 +6182,7 @@
             "reminders": [
                 "Storyteller Ability"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/plaguedoctor.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/plaguedoctor.png",
             "setup": false,
             "team": "outsider"
         },
@@ -6196,7 +6196,7 @@
             "name": "Shugenja",
             "otherNight": null,
             "otherNightReminder": null,
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/shugenja.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/shugenja.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -6213,7 +6213,7 @@
             "reminders": [
                 "Knows"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/knight.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/knight.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -6226,7 +6226,7 @@
             "name": "Vizier",
             "otherNight": null,
             "otherNightReminder": null,
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/vizier.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/vizier.png",
             "team": "minion"
         },
         {
@@ -6242,7 +6242,7 @@
             "reminders": [
                 "Knows"
             ],
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/steward.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/steward.png",
             "setup": false,
             "team": "townsfolk"
         },
@@ -6256,7 +6256,7 @@
             "name": "Bootlegger",
             "otherNight": null,
             "otherNightReminder": null,
-            "remote_image": "https://raw.githubusercontent.com/chizmw/json-on-the-clocktower/main/data/images/bootlegger.png",
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/bootlegger.png",
             "setup": false,
             "team": "fabled"
         }
