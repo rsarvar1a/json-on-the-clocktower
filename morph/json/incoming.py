@@ -96,6 +96,9 @@ class JsonIncoming:
 
         # get the night order data
         night_order_data = self.get_script_nightorder_data()
+        for pair in [('DUSK', 'Dusk'), ('DEMON', 'Demon Info'), ('MINION', 'Minion Info'), ('DAWN', 'Dawn')]:
+            night_order_data["firstNight"] = [ x if x != pair[0] else pair[1] for x in night_order_data["firstNight"]]
+            night_order_data["otherNight"] = [ x if x != pair[0] else pair[1] for x in night_order_data["otherNight"]]
 
         # loop through firstNight, with the index as the position
         for index, role_id in enumerate(night_order_data["firstNight"]):
