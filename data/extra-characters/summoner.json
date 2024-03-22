@@ -1,0 +1,44 @@
+[
+    {
+      "id": "summoner",
+      "image": "[Your direct URL here]",
+      "firstNight": 0,
+      "otherNight": 1,
+      "otherNightReminder": "The Summoner points to a player and a Demon on the script.",
+      "reminders": ["Summoned"],
+      "setup": true,
+      "name": "Summoner",
+      "team": "minion",
+      "ability": "You get 3 bluffs. On the 3rd night, choose a player: they become an evil Demon of your choice. [No Demon]",
+      "jinxes": [
+        {
+            "id": "alchemist",
+            "reason": "If there is an Alchemist-Summoner in play, the game starts with a Demon in play, as normal. If the Alchemist-Summoner chooses a player, they make that player a Demon but do not change their alignment."
+        },
+        {
+            "id": "clockmaker",
+            "reason": "If the Summoner is in play, the Clockmaker does not receive their information until a Demon is created."
+        },
+        {
+            "id": "kazali",
+            "reason": "The Kazali cannot choose to create a Summoner."
+        },
+        {
+            "id": "legion",
+            "reason": "If the Summoner creates Legion, most players (including all evil players) become evil Legion."
+        },
+        {
+            "id": "marionette",
+            "reason": "The Marionette neighbours the Summoner. The Summoner knows who the Marionette is."
+        },
+        {
+            "id": "poppygrower",
+            "reason": "If the Poppy Grower is alive when the Summoner acts, the Summoner chooses which Demon, but the Storyteller chooses which player."
+        },
+        {
+            "id": "riot",
+            "reason": "If the Summoner creates Riot, the chosen player and all evil players become Riot. The chosen player must be one of the Summoner's living good neighbours."
+        }
+      ]
+    }
+]
