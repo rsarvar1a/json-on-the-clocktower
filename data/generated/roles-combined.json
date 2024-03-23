@@ -2238,6 +2238,25 @@
             "setup": false,
             "team": "fabled"
         },
+        "summoner": {
+            "ability": "You get 3 bluffs. On the 3rd night, choose a player: they become an evil Demon of your choice. [No Demon]",
+            "edition": "experimental",
+            "firstNight": 11,
+            "firstNightReminder": "Show the 'These characters are not in play' card. Show 3 character tokens of good characters not in play.",
+            "id": "summoner",
+            "image": "your direct url here",
+            "name": "Summoner",
+            "otherNight": 21,
+            "otherNightReminder": "If it is the 3rd night, wake the Summoner. They point to a player and a Demon on the character sheet - that player becomes that Demon.",
+            "reminders": [
+                "Night 1",
+                "Night 2",
+                "Night 3"
+            ],
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/summoner.png",
+            "setup": true,
+            "team": "minion"
+        },
         "sweetheart": {
             "ability": "When you die, 1 player is drunk from now on.",
             "edition": "snv",
@@ -2899,6 +2918,11 @@
             "steward": {
                 "id": "steward",
                 "name": "steward",
+                "physicaltoken": false
+            },
+            "summoner": {
+                "id": "summoner",
+                "name": "summoner",
                 "physicaltoken": false
             },
             "villageidiot": {
@@ -6379,12 +6403,13 @@
         },
         {
             "ability": "You get 3 bluffs. On the 3rd night, choose a player: they become an evil Demon of your choice. [No Demon]",
-            "firstNight": null,
+            "edition": "experimental",
+            "firstNight": 11,
             "firstNightReminder": "Show the 'These characters are not in play' card. Show 3 character tokens of good characters not in play.",
             "id": "summoner",
             "image": "your direct url here",
             "name": "Summoner",
-            "otherNight": null,
+            "otherNight": 21,
             "otherNightReminder": "If it is the 3rd night, wake the Summoner. They point to a player and a Demon on the character sheet - that player becomes that Demon.",
             "reminders": [
                 "Night 1",
