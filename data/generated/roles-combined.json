@@ -1655,6 +1655,19 @@
             "setup": false,
             "team": "demon"
         },
+        "ogre": {
+            "ability": "On your 1st night, choose a player (not yourself): you become their alignment (you don't know which) even if drunk or poisoned.",
+            "edition": "experimental",
+            "firstNight": 58,
+            "firstNightReminder": "The Ogre points to a player (not themselves) and becomes their alignment.",
+            "id": "ogre",
+            "image": "your direct url here",
+            "name": "Ogre",
+            "otherNight": null,
+            "otherNightReminder": null,
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/ogre.png",
+            "team": "outsider"
+        },
         "ojo": {
             "ability": "Each night*, choose a character: they die. If they are not in play, the Storyteller chooses who dies.",
             "edition": "experimental",
@@ -2904,6 +2917,11 @@
             "nightwatchman": {
                 "id": "nightwatchman",
                 "name": "nightwatchman",
+                "physicaltoken": false
+            },
+            "ogre": {
+                "id": "ogre",
+                "name": "ogre",
                 "physicaltoken": false
             },
             "ojo": {
@@ -6497,11 +6515,14 @@
         },
         {
             "ability": "On your 1st night, choose a player (not yourself): you become their alignment (you don't know which) even if drunk or poisoned.",
-            "firstNight": null,
+            "edition": "experimental",
+            "firstNight": 58,
             "firstNightReminder": "The Ogre points to a player (not themselves) and becomes their alignment.",
             "id": "ogre",
             "image": "your direct url here",
             "name": "Ogre",
+            "otherNight": null,
+            "otherNightReminder": null,
             "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/ogre.png",
             "team": "outsider"
         },
