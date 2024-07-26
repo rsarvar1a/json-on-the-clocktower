@@ -2571,6 +2571,19 @@
             "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/yaggababble.png",
             "team": "demon"
         },
+        "zealot": {
+            "ability": "If there are 5 or more players alive, you must vote for every nomination.",
+            "edition": "experimental",
+            "firstNight": null,
+            "firstNightReminder": null,
+            "id": "zealot",
+            "image": "your direct url here",
+            "name": "Zealot",
+            "otherNight": null,
+            "otherNightReminder": null,
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/zealot.png",
+            "team": "outsider"
+        },
         "zombuul": {
             "ability": "Each night*, if no-one died today, choose a player: they die. The 1st time you die, you live but register as dead.",
             "edition": "bmr",
@@ -3000,6 +3013,11 @@
             "yaggababble": {
                 "id": "yaggababble",
                 "name": "yaggababble",
+                "physicaltoken": false
+            },
+            "zealot": {
+                "id": "zealot",
+                "name": "zealot",
                 "physicaltoken": false
             }
         },
@@ -6462,6 +6480,19 @@
             "team": "_meta"
         },
         {
+            "ability": "If there are 5 or more players alive, you must vote for every nomination.",
+            "edition": "experimental",
+            "firstNight": null,
+            "firstNightReminder": null,
+            "id": "zealot",
+            "image": "your direct url here",
+            "name": "Zealot",
+            "otherNight": null,
+            "otherNightReminder": null,
+            "remote_image": "https://raw.githubusercontent.com/rsarvar1a/json-on-the-clocktower/main/data/images/zealot.png",
+            "team": "outsider"
+        },
+        {
             "ability": "Once per day, if you publicly guess which players are Minion(s) and which are Demon(s), good wins.",
             "edition": "experimental",
             "firstNight": null,
@@ -7067,6 +7098,10 @@
             {
                 "id": "politician",
                 "name": "Politician"
+            },
+            {
+                "id": "zealot",
+                "name": "Zealot"
             },
             {
                 "id": "ogre",

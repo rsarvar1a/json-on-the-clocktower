@@ -1,0 +1,10 @@
+[
+    {
+        "id": "zealot",
+        "image": "your direct url here",
+        "name": "Zealot",
+        "team": "outsider",
+        "ability": "If there are 5 or more players alive, you must vote for every nomination.",
+        "edition": "experimental"
+    }
+]
