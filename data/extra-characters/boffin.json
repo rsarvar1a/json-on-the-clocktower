@@ -1,0 +1,12 @@
+[
+    {
+        "id": "boffin",
+        "image": "your direct url here",
+        "firstNight": 5.1,
+        "firstNightReminder": "Wake the Boffin and how them the token of the ability the Demon has. Put the Boffin back to sleep. Wake the Demon, show the Boffin token, then show the token of the good ability the Demon has.",
+        "name": "Boffin",
+        "team": "minion",
+        "ability": "The Demon (even if drunk or poisoned) has a not-in-play good character’s ability.  You both now which.",
+        "edition": "experimental"
+    }
+]
